@@ -1,12 +1,23 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Project name="Benelux" themeId="0" version="65540" templateID="SimpleProjectTemplate">
-  <MediaItems />
+  <MediaItems>
+    <MediaItem id="1" filePath="C:\Users\anya\Pictures\Saved Pictures\4366 (2).JPG" arWidth="850" arHeight="1108" duration="0" songTitle="" songArtist="" songAlbum="" songCopyrightUrl="" songArtistUrl="" songAudioFileUrl="" stabilizationMode="0" mediaItemType="2" />
+  </MediaItems>
   <Extents>
+    <ImageClip extentID="5" gapBefore="0" mediaItemID="1" duration="7">
+      <Effects />
+      <Transitions />
+      <BoundProperties>
+        <BoundPropertyInt Name="rotateStepNinety" Value="0" />
+      </BoundProperties>
+    </ImageClip>
     <ExtentSelector extentID="1" gapBefore="0" primaryTrack="true">
       <Effects />
       <Transitions />
       <BoundProperties />
-      <ExtentRefs />
+      <ExtentRefs>
+        <ExtentRef id="5" />
+      </ExtentRefs>
     </ExtentSelector>
     <ExtentSelector extentID="2" gapBefore="0" primaryTrack="false">
       <Effects />
