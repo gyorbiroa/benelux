@@ -1,72 +1,65 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Project name="Benelux" themeId="0" version="65540" templateID="SimpleProjectTemplate">
   <MediaItems>
-    <MediaItem id="106" filePath="C:\Benelux_fenykepek_2016\20160730_181630.jpg" arWidth="720" arHeight="1280" duration="0" songTitle="" songArtist="" songAlbum="" songCopyrightUrl="" songArtistUrl="" songAudioFileUrl="" stabilizationMode="0" mediaItemType="2" />
-    <MediaItem id="53" filePath="C:\Benelux_fenykepek_2016\DSC01919.JPG" arWidth="3648" arHeight="2056" duration="0" songTitle="" songArtist="" songAlbum="" songCopyrightUrl="" songArtistUrl="" songAudioFileUrl="" stabilizationMode="0" mediaItemType="2" />
-    <MediaItem id="107" filePath="C:\Benelux_fenykepek_2016\20160730_181641.jpg" arWidth="720" arHeight="1280" duration="0" songTitle="" songArtist="" songAlbum="" songCopyrightUrl="" songArtistUrl="" songAudioFileUrl="" stabilizationMode="0" mediaItemType="2" />
+    <MediaItem id="107" filePath="C:\Benelux_fenykepek_2016\20160730_181641.jpg" arWidth="1152" arHeight="2048" duration="0" songTitle="" songArtist="" songAlbum="" songCopyrightUrl="" songArtistUrl="" songAudioFileUrl="" stabilizationMode="0" mediaItemType="2" />
     <MediaItem id="54" filePath="C:\Benelux_fenykepek_2016\DSC01920.JPG" arWidth="3648" arHeight="2056" duration="0" songTitle="" songArtist="" songAlbum="" songCopyrightUrl="" songArtistUrl="" songAudioFileUrl="" stabilizationMode="0" mediaItemType="2" />
-    <MediaItem id="1" filePath="C:\Benelux_fenykepek_2016\DSC01850.JPG" arWidth="3648" arHeight="2056" duration="0" songTitle="" songArtist="" songAlbum="" songCopyrightUrl="" songArtistUrl="" songAudioFileUrl="" stabilizationMode="0" mediaItemType="2" />
-    <MediaItem id="108" filePath="C:\Benelux_fenykepek_2016\20160730_181844.jpg" arWidth="720" arHeight="1280" duration="0" songTitle="" songArtist="" songAlbum="" songCopyrightUrl="" songArtistUrl="" songAudioFileUrl="" stabilizationMode="0" mediaItemType="2" />
-    <MediaItem id="55" filePath="C:\Benelux_fenykepek_2016\DSC01921.JPG" arWidth="1280" arHeight="721" duration="0" songTitle="" songArtist="" songAlbum="" songCopyrightUrl="" songArtistUrl="" songAudioFileUrl="" stabilizationMode="0" mediaItemType="2" />
-    <MediaItem id="2" filePath="C:\Benelux_fenykepek_2016\MAH01896.MP4" arWidth="1920" arHeight="1080" duration="15.960000000000001" songTitle="" songArtist="" songAlbum="" songCopyrightUrl="" songArtistUrl="" songAudioFileUrl="" stabilizationMode="0" mediaItemType="1" />
+    <MediaItem id="1" filePath="C:\Benelux_fenykepek_2016\DSC01850.JPG" arWidth="1280" arHeight="721" duration="0" songTitle="" songArtist="" songAlbum="" songCopyrightUrl="" songArtistUrl="" songAudioFileUrl="" stabilizationMode="0" mediaItemType="2" />
+    <MediaItem id="2" filePath="C:\Benelux_fenykepek_2016\MAH01896.MP4" arWidth="5760" arHeight="3240" duration="15.84" songTitle="" songArtist="" songAlbum="" songCopyrightUrl="" songArtistUrl="" songAudioFileUrl="" stabilizationMode="0" mediaItemType="1" />
     <MediaItem id="109" filePath="C:\Benelux_fenykepek_2016\20160730_181917.jpg" arWidth="1152" arHeight="2048" duration="0" songTitle="" songArtist="" songAlbum="" songCopyrightUrl="" songArtistUrl="" songAudioFileUrl="" stabilizationMode="0" mediaItemType="2" />
     <MediaItem id="56" filePath="C:\Benelux_fenykepek_2016\DSC01922.JPG" arWidth="3648" arHeight="2056" duration="0" songTitle="" songArtist="" songAlbum="" songCopyrightUrl="" songArtistUrl="" songAudioFileUrl="" stabilizationMode="0" mediaItemType="2" />
-    <MediaItem id="3" filePath="C:\Benelux_fenykepek_2016\MAH01897.MP4" arWidth="1920" arHeight="1080" duration="21.719999999999999" songTitle="" songArtist="" songAlbum="" songCopyrightUrl="" songArtistUrl="" songAudioFileUrl="" stabilizationMode="0" mediaItemType="1" />
-    <MediaItem id="110" filePath="C:\Benelux_fenykepek_2016\20160730_182206.jpg" arWidth="1152" arHeight="2048" duration="0" songTitle="" songArtist="" songAlbum="" songCopyrightUrl="" songArtistUrl="" songAudioFileUrl="" stabilizationMode="0" mediaItemType="2" />
+    <MediaItem id="3" filePath="C:\Benelux_fenykepek_2016\MAH01897.MP4" arWidth="5760" arHeight="3240" duration="21.600000000000001" songTitle="" songArtist="" songAlbum="" songCopyrightUrl="" songArtistUrl="" songAudioFileUrl="" stabilizationMode="0" mediaItemType="1" />
+    <MediaItem id="110" filePath="C:\Benelux_fenykepek_2016\20160730_182206.jpg" arWidth="720" arHeight="1280" duration="0" songTitle="" songArtist="" songAlbum="" songCopyrightUrl="" songArtistUrl="" songAudioFileUrl="" stabilizationMode="0" mediaItemType="2" />
     <MediaItem id="57" filePath="C:\Benelux_fenykepek_2016\DSC01923.JPG" arWidth="3648" arHeight="2056" duration="0" songTitle="" songArtist="" songAlbum="" songCopyrightUrl="" songArtistUrl="" songAudioFileUrl="" stabilizationMode="0" mediaItemType="2" />
-    <MediaItem id="4" filePath="C:\Benelux_fenykepek_2016\MAH01898.MP4" arWidth="1920" arHeight="1080" duration="44.280000000000001" songTitle="" songArtist="" songAlbum="" songCopyrightUrl="" songArtistUrl="" songAudioFileUrl="" stabilizationMode="0" mediaItemType="1" />
+    <MediaItem id="4" filePath="C:\Benelux_fenykepek_2016\MAH01898.MP4" arWidth="5760" arHeight="3240" duration="44.159999900000003" songTitle="" songArtist="" songAlbum="" songCopyrightUrl="" songArtistUrl="" songAudioFileUrl="" stabilizationMode="0" mediaItemType="1" />
     <MediaItem id="111" filePath="C:\Benelux_fenykepek_2016\20160730_183412.jpg" arWidth="2048" arHeight="1152" duration="0" songTitle="" songArtist="" songAlbum="" songCopyrightUrl="" songArtistUrl="" songAudioFileUrl="" stabilizationMode="0" mediaItemType="2" />
     <MediaItem id="58" filePath="C:\Benelux_fenykepek_2016\DSC01924.JPG" arWidth="3648" arHeight="2056" duration="0" songTitle="" songArtist="" songAlbum="" songCopyrightUrl="" songArtistUrl="" songAudioFileUrl="" stabilizationMode="0" mediaItemType="2" />
-    <MediaItem id="5" filePath="C:\Benelux_fenykepek_2016\MAH01899.MP4" arWidth="1920" arHeight="1080" duration="17.879999999999999" songTitle="" songArtist="" songAlbum="" songCopyrightUrl="" songArtistUrl="" songAudioFileUrl="" stabilizationMode="0" mediaItemType="1" />
+    <MediaItem id="5" filePath="C:\Benelux_fenykepek_2016\MAH01899.MP4" arWidth="5760" arHeight="3240" duration="17.760000000000002" songTitle="" songArtist="" songAlbum="" songCopyrightUrl="" songArtistUrl="" songAudioFileUrl="" stabilizationMode="0" mediaItemType="1" />
     <MediaItem id="112" filePath="C:\Benelux_fenykepek_2016\20160730_184528.jpg" arWidth="2048" arHeight="1152" duration="0" songTitle="" songArtist="" songAlbum="" songCopyrightUrl="" songArtistUrl="" songAudioFileUrl="" stabilizationMode="0" mediaItemType="2" />
     <MediaItem id="59" filePath="C:\Benelux_fenykepek_2016\DSC01925.JPG" arWidth="3648" arHeight="2056" duration="0" songTitle="" songArtist="" songAlbum="" songCopyrightUrl="" songArtistUrl="" songAudioFileUrl="" stabilizationMode="0" mediaItemType="2" />
     <MediaItem id="6" filePath="C:\Benelux_fenykepek_2016\DSC01901.JPG" arWidth="2056" arHeight="3648" duration="0" songTitle="" songArtist="" songAlbum="" songCopyrightUrl="" songArtistUrl="" songAudioFileUrl="" stabilizationMode="0" mediaItemType="2" />
     <MediaItem id="60" filePath="C:\Benelux_fenykepek_2016\DSC01928.JPG" arWidth="3648" arHeight="2056" duration="0" songTitle="" songArtist="" songAlbum="" songCopyrightUrl="" songArtistUrl="" songAudioFileUrl="" stabilizationMode="0" mediaItemType="2" />
     <MediaItem id="7" filePath="C:\Benelux_fenykepek_2016\DSC01903.JPG" arWidth="2056" arHeight="3648" duration="0" songTitle="" songArtist="" songAlbum="" songCopyrightUrl="" songArtistUrl="" songAudioFileUrl="" stabilizationMode="0" mediaItemType="2" />
     <MediaItem id="114" filePath="C:\Users\anya\Desktop\Benelux letöltések\the_nightwatch_by_rembrandt.jpg" arWidth="1080" arHeight="900" duration="0" songTitle="" songArtist="" songAlbum="" songCopyrightUrl="" songArtistUrl="" songAudioFileUrl="" stabilizationMode="0" mediaItemType="2" />
-    <MediaItem id="61" filePath="C:\Benelux_fenykepek_2016\DSC01929.JPG" arWidth="2056" arHeight="3648" duration="0" songTitle="" songArtist="" songAlbum="" songCopyrightUrl="" songArtistUrl="" songAudioFileUrl="" stabilizationMode="0" mediaItemType="2" />
-    <MediaItem id="8" filePath="C:\Benelux_fenykepek_2016\DSC01904.JPG" arWidth="3648" arHeight="2056" duration="0" songTitle="" songArtist="" songAlbum="" songCopyrightUrl="" songArtistUrl="" songAudioFileUrl="" stabilizationMode="0" mediaItemType="2" />
+    <MediaItem id="8" filePath="C:\Benelux_fenykepek_2016\DSC01904.JPG" arWidth="1280" arHeight="721" duration="0" songTitle="" songArtist="" songAlbum="" songCopyrightUrl="" songArtistUrl="" songAudioFileUrl="" stabilizationMode="0" mediaItemType="2" />
     <MediaItem id="115" filePath="C:\Users\anya\Desktop\Benelux letöltések\JanSteen Szt.miklós ünnepe.jpg" arWidth="512" arHeight="512" duration="0" songTitle="" songArtist="" songAlbum="" songCopyrightUrl="" songArtistUrl="" songAudioFileUrl="" stabilizationMode="0" mediaItemType="2" />
-    <MediaItem id="62" filePath="C:\Benelux_fenykepek_2016\DSC01930.JPG" arWidth="96" arHeight="54" duration="0" songTitle="" songArtist="" songAlbum="" songCopyrightUrl="" songArtistUrl="" songAudioFileUrl="" stabilizationMode="0" mediaItemType="2" />
-    <MediaItem id="9" filePath="C:\Benelux_fenykepek_2016\DSC01905.JPG" arWidth="3648" arHeight="2056" duration="0" songTitle="" songArtist="" songAlbum="" songCopyrightUrl="" songArtistUrl="" songAudioFileUrl="" stabilizationMode="0" mediaItemType="2" />
+    <MediaItem id="62" filePath="C:\Benelux_fenykepek_2016\DSC01930.JPG" arWidth="3648" arHeight="2056" duration="0" songTitle="" songArtist="" songAlbum="" songCopyrightUrl="" songArtistUrl="" songAudioFileUrl="" stabilizationMode="0" mediaItemType="2" />
     <MediaItem id="116" filePath="C:\Users\anya\Desktop\Benelux letöltések\JanSteen. Boldog család.jpg" arWidth="512" arHeight="512" duration="0" songTitle="" songArtist="" songAlbum="" songCopyrightUrl="" songArtistUrl="" songAudioFileUrl="" stabilizationMode="0" mediaItemType="2" />
-    <MediaItem id="63" filePath="C:\Benelux_fenykepek_2016\DSC01932.JPG" arWidth="96" arHeight="54" duration="0" songTitle="" songArtist="" songAlbum="" songCopyrightUrl="" songArtistUrl="" songAudioFileUrl="" stabilizationMode="0" mediaItemType="2" />
+    <MediaItem id="63" filePath="C:\Benelux_fenykepek_2016\DSC01932.JPG" arWidth="3648" arHeight="2056" duration="0" songTitle="" songArtist="" songAlbum="" songCopyrightUrl="" songArtistUrl="" songAudioFileUrl="" stabilizationMode="0" mediaItemType="2" />
     <MediaItem id="10" filePath="C:\Benelux_fenykepek_2016\MAH01906.MP4" arWidth="1920" arHeight="1080" duration="39.479999999999997" songTitle="" songArtist="" songAlbum="" songCopyrightUrl="" songArtistUrl="" songAudioFileUrl="" stabilizationMode="0" mediaItemType="1" />
     <MediaItem id="117" filePath="C:\Users\anya\Desktop\Benelux letöltések\JanSteen_Beteg hölgy és az orvos.jpg" arWidth="512" arHeight="512" duration="0" songTitle="" songArtist="" songAlbum="" songCopyrightUrl="" songArtistUrl="" songAudioFileUrl="" stabilizationMode="0" mediaItemType="2" />
-    <MediaItem id="64" filePath="C:\Benelux_fenykepek_2016\DSC01933.JPG" arWidth="96" arHeight="54" duration="0" songTitle="" songArtist="" songAlbum="" songCopyrightUrl="" songArtistUrl="" songAudioFileUrl="" stabilizationMode="0" mediaItemType="2" />
-    <MediaItem id="11" filePath="C:\Benelux_fenykepek_2016\DSC01851.JPG" arWidth="3648" arHeight="2056" duration="0" songTitle="" songArtist="" songAlbum="" songCopyrightUrl="" songArtistUrl="" songAudioFileUrl="" stabilizationMode="0" mediaItemType="2" />
-    <MediaItem id="65" filePath="C:\Benelux_fenykepek_2016\DSC01935.JPG" arWidth="96" arHeight="54" duration="0" songTitle="" songArtist="" songAlbum="" songCopyrightUrl="" songArtistUrl="" songAudioFileUrl="" stabilizationMode="0" mediaItemType="2" />
+    <MediaItem id="64" filePath="C:\Benelux_fenykepek_2016\DSC01933.JPG" arWidth="3648" arHeight="2056" duration="0" songTitle="" songArtist="" songAlbum="" songCopyrightUrl="" songArtistUrl="" songAudioFileUrl="" stabilizationMode="0" mediaItemType="2" />
+    <MediaItem id="11" filePath="C:\Benelux_fenykepek_2016\DSC01851.JPG" arWidth="1280" arHeight="721" duration="0" songTitle="" songArtist="" songAlbum="" songCopyrightUrl="" songArtistUrl="" songAudioFileUrl="" stabilizationMode="0" mediaItemType="2" />
+    <MediaItem id="65" filePath="C:\Benelux_fenykepek_2016\DSC01935.JPG" arWidth="3648" arHeight="2056" duration="0" songTitle="" songArtist="" songAlbum="" songCopyrightUrl="" songArtistUrl="" songAudioFileUrl="" stabilizationMode="0" mediaItemType="2" />
     <MediaItem id="12" filePath="C:\Benelux_fenykepek_2016\MAH01907.MP4" arWidth="1920" arHeight="1080" duration="30.84" songTitle="" songArtist="" songAlbum="" songCopyrightUrl="" songArtistUrl="" songAudioFileUrl="" stabilizationMode="0" mediaItemType="1" />
-    <MediaItem id="119" filePath="C:\Users\anya\Desktop\Benelux letöltések\Johannes_Vermeer_-Milkmaid.jpg" arWidth="1024" arHeight="1148" duration="0" songTitle="" songArtist="" songAlbum="" songCopyrightUrl="" songArtistUrl="" songAudioFileUrl="" stabilizationMode="0" mediaItemType="2" />
     <MediaItem id="66" filePath="C:\Benelux_fenykepek_2016\MAH01936.MP4" arWidth="1920" arHeight="1080" duration="28.920000000000002" songTitle="" songArtist="" songAlbum="" songCopyrightUrl="" songArtistUrl="" songAudioFileUrl="" stabilizationMode="0" mediaItemType="1" />
-    <MediaItem id="13" filePath="C:\Benelux_fenykepek_2016\DSC01854.JPG" arWidth="3648" arHeight="2056" duration="0" songTitle="" songArtist="" songAlbum="" songCopyrightUrl="" songArtistUrl="" songAudioFileUrl="" stabilizationMode="0" mediaItemType="2" />
-    <MediaItem id="67" filePath="C:\Benelux_fenykepek_2016\MAH01937.MP4" arWidth="1920" arHeight="1080" duration="31.800000000000001" songTitle="" songArtist="" songAlbum="" songCopyrightUrl="" songArtistUrl="" songAudioFileUrl="" stabilizationMode="0" mediaItemType="1" />
+    <MediaItem id="13" filePath="C:\Benelux_fenykepek_2016\DSC01854.JPG" arWidth="1280" arHeight="721" duration="0" songTitle="" songArtist="" songAlbum="" songCopyrightUrl="" songArtistUrl="" songAudioFileUrl="" stabilizationMode="0" mediaItemType="2" />
+    <MediaItem id="119" filePath="C:\Users\anya\Desktop\Benelux letöltések\Johannes_Vermeer_-Milkmaid.jpg" arWidth="1024" arHeight="1148" duration="0" songTitle="" songArtist="" songAlbum="" songCopyrightUrl="" songArtistUrl="" songAudioFileUrl="" stabilizationMode="0" mediaItemType="2" />
     <MediaItem id="14" filePath="C:\Benelux_fenykepek_2016\DSC01908.JPG" arWidth="3648" arHeight="2056" duration="0" songTitle="" songArtist="" songAlbum="" songCopyrightUrl="" songArtistUrl="" songAudioFileUrl="" stabilizationMode="0" mediaItemType="2" />
-    <MediaItem id="68" filePath="C:\Benelux_fenykepek_2016\MAH01938.MP4" arWidth="1920" arHeight="1080" duration="27.48" songTitle="" songArtist="" songAlbum="" songCopyrightUrl="" songArtistUrl="" songAudioFileUrl="" stabilizationMode="0" mediaItemType="1" />
     <MediaItem id="15" filePath="C:\Benelux_fenykepek_2016\DSC01856.JPG" arWidth="2056" arHeight="3648" duration="0" songTitle="" songArtist="" songAlbum="" songCopyrightUrl="" songArtistUrl="" songAudioFileUrl="" stabilizationMode="0" mediaItemType="2" />
-    <MediaItem id="69" filePath="C:\Benelux_fenykepek_2016\MAH01939.MP4" arWidth="1920" arHeight="1080" duration="45.239999900000001" songTitle="" songArtist="" songAlbum="" songCopyrightUrl="" songArtistUrl="" songAudioFileUrl="" stabilizationMode="0" mediaItemType="1" />
+    <MediaItem id="68" filePath="C:\Benelux_fenykepek_2016\MAH01938.MP4" arWidth="1920" arHeight="1080" duration="27.48" songTitle="" songArtist="" songAlbum="" songCopyrightUrl="" songArtistUrl="" songAudioFileUrl="" stabilizationMode="0" mediaItemType="1" />
     <MediaItem id="16" filePath="C:\Benelux_fenykepek_2016\DSC01857.JPG" arWidth="1280" arHeight="721" duration="0" songTitle="" songArtist="" songAlbum="" songCopyrightUrl="" songArtistUrl="" songAudioFileUrl="" stabilizationMode="0" mediaItemType="2" />
-    <MediaItem id="70" filePath="C:\Benelux_fenykepek_2016\MAH01940.MP4" arWidth="1920" arHeight="1080" duration="76.920000000000002" songTitle="" songArtist="" songAlbum="" songCopyrightUrl="" songArtistUrl="" songAudioFileUrl="" stabilizationMode="0" mediaItemType="1" />
+    <MediaItem id="69" filePath="C:\Benelux_fenykepek_2016\MAH01939.MP4" arWidth="5760" arHeight="3240" duration="45.119999999999997" songTitle="" songArtist="" songAlbum="" songCopyrightUrl="" songArtistUrl="" songAudioFileUrl="" stabilizationMode="0" mediaItemType="1" />
+    <MediaItem id="70" filePath="C:\Benelux_fenykepek_2016\MAH01940.MP4" arWidth="5760" arHeight="3240" duration="76.799999999999997" songTitle="" songArtist="" songAlbum="" songCopyrightUrl="" songArtistUrl="" songAudioFileUrl="" stabilizationMode="0" mediaItemType="1" />
     <MediaItem id="17" filePath="C:\Benelux_fenykepek_2016\DSC01858.JPG" arWidth="1280" arHeight="721" duration="0" songTitle="" songArtist="" songAlbum="" songCopyrightUrl="" songArtistUrl="" songAudioFileUrl="" stabilizationMode="0" mediaItemType="2" />
-    <MediaItem id="71" filePath="C:\Benelux_fenykepek_2016\MAH01941.MP4" arWidth="1920" arHeight="1080" duration="48.119999999999997" songTitle="" songArtist="" songAlbum="" songCopyrightUrl="" songArtistUrl="" songAudioFileUrl="" stabilizationMode="0" mediaItemType="1" />
+    <MediaItem id="71" filePath="C:\Benelux_fenykepek_2016\MAH01941.MP4" arWidth="5760" arHeight="3240" duration="48" songTitle="" songArtist="" songAlbum="" songCopyrightUrl="" songArtistUrl="" songAudioFileUrl="" stabilizationMode="0" mediaItemType="1" />
     <MediaItem id="18" filePath="C:\Benelux_fenykepek_2016\DSC01859.JPG" arWidth="1280" arHeight="721" duration="0" songTitle="" songArtist="" songAlbum="" songCopyrightUrl="" songArtistUrl="" songAudioFileUrl="" stabilizationMode="0" mediaItemType="2" />
-    <MediaItem id="72" filePath="C:\Benelux_fenykepek_2016\MAH01942.MP4" arWidth="1920" arHeight="1080" duration="27.960000000000001" songTitle="" songArtist="" songAlbum="" songCopyrightUrl="" songArtistUrl="" songAudioFileUrl="" stabilizationMode="0" mediaItemType="1" />
+    <MediaItem id="72" filePath="C:\Benelux_fenykepek_2016\MAH01942.MP4" arWidth="5760" arHeight="3240" duration="27.84" songTitle="" songArtist="" songAlbum="" songCopyrightUrl="" songArtistUrl="" songAudioFileUrl="" stabilizationMode="0" mediaItemType="1" />
     <MediaItem id="19" filePath="C:\Benelux_fenykepek_2016\DSC01860.JPG" arWidth="3648" arHeight="2056" duration="0" songTitle="" songArtist="" songAlbum="" songCopyrightUrl="" songArtistUrl="" songAudioFileUrl="" stabilizationMode="0" mediaItemType="2" />
     <MediaItem id="73" filePath="C:\Benelux_fenykepek_2016\MAH01943.MP4" arWidth="1920" arHeight="1080" duration="30.84" songTitle="" songArtist="" songAlbum="" songCopyrightUrl="" songArtistUrl="" songAudioFileUrl="" stabilizationMode="0" mediaItemType="1" />
     <MediaItem id="20" filePath="C:\Benelux_fenykepek_2016\DSC01861.JPG" arWidth="3648" arHeight="2056" duration="0" songTitle="" songArtist="" songAlbum="" songCopyrightUrl="" songArtistUrl="" songAudioFileUrl="" stabilizationMode="0" mediaItemType="2" />
-    <MediaItem id="74" filePath="C:\Benelux_fenykepek_2016\MAH01945.MP4" arWidth="1920" arHeight="1080" duration="22.68" songTitle="" songArtist="" songAlbum="" songCopyrightUrl="" songArtistUrl="" songAudioFileUrl="" stabilizationMode="0" mediaItemType="1" />
+    <MediaItem id="74" filePath="C:\Benelux_fenykepek_2016\MAH01945.MP4" arWidth="5760" arHeight="3240" duration="22.559999999999999" songTitle="" songArtist="" songAlbum="" songCopyrightUrl="" songArtistUrl="" songAudioFileUrl="" stabilizationMode="0" mediaItemType="1" />
     <MediaItem id="21" filePath="C:\Benelux_fenykepek_2016\DSC01862.JPG" arWidth="721" arHeight="1280" duration="0" songTitle="" songArtist="" songAlbum="" songCopyrightUrl="" songArtistUrl="" songAudioFileUrl="" stabilizationMode="0" mediaItemType="2" />
-    <MediaItem id="75" filePath="C:\Benelux_fenykepek_2016\MAH01946.MP4" arWidth="1920" arHeight="1080" duration="20.280000000000001" songTitle="" songArtist="" songAlbum="" songCopyrightUrl="" songArtistUrl="" songAudioFileUrl="" stabilizationMode="0" mediaItemType="1" />
+    <MediaItem id="75" filePath="C:\Benelux_fenykepek_2016\MAH01946.MP4" arWidth="5760" arHeight="3240" duration="20.16" songTitle="" songArtist="" songAlbum="" songCopyrightUrl="" songArtistUrl="" songAudioFileUrl="" stabilizationMode="0" mediaItemType="1" />
     <MediaItem id="22" filePath="C:\Benelux_fenykepek_2016\DSC01909.JPG" arWidth="3648" arHeight="2056" duration="0" songTitle="" songArtist="" songAlbum="" songCopyrightUrl="" songArtistUrl="" songAudioFileUrl="" stabilizationMode="0" mediaItemType="2" />
-    <MediaItem id="76" filePath="C:\Benelux_fenykepek_2016\MAH01947.MP4" arWidth="1920" arHeight="1080" duration="71.159999999999997" songTitle="" songArtist="" songAlbum="" songCopyrightUrl="" songArtistUrl="" songAudioFileUrl="" stabilizationMode="0" mediaItemType="1" />
+    <MediaItem id="76" filePath="C:\Benelux_fenykepek_2016\MAH01947.MP4" arWidth="5760" arHeight="3240" duration="71.040000000000006" songTitle="" songArtist="" songAlbum="" songCopyrightUrl="" songArtistUrl="" songAudioFileUrl="" stabilizationMode="0" mediaItemType="1" />
     <MediaItem id="23" filePath="C:\Benelux_fenykepek_2016\DSC01864.JPG" arWidth="1280" arHeight="721" duration="0" songTitle="" songArtist="" songAlbum="" songCopyrightUrl="" songArtistUrl="" songAudioFileUrl="" stabilizationMode="0" mediaItemType="2" />
-    <MediaItem id="77" filePath="C:\Benelux_fenykepek_2016\MAH01948.MP4" arWidth="1920" arHeight="1080" duration="57.719999999999999" songTitle="" songArtist="" songAlbum="" songCopyrightUrl="" songArtistUrl="" songAudioFileUrl="" stabilizationMode="0" mediaItemType="1" />
+    <MediaItem id="77" filePath="C:\Benelux_fenykepek_2016\MAH01948.MP4" arWidth="5760" arHeight="3240" duration="57.600000000000001" songTitle="" songArtist="" songAlbum="" songCopyrightUrl="" songArtistUrl="" songAudioFileUrl="" stabilizationMode="0" mediaItemType="1" />
     <MediaItem id="24" filePath="C:\Benelux_fenykepek_2016\DSC01865.JPG" arWidth="1280" arHeight="721" duration="0" songTitle="" songArtist="" songAlbum="" songCopyrightUrl="" songArtistUrl="" songAudioFileUrl="" stabilizationMode="0" mediaItemType="2" />
     <MediaItem id="78" filePath="C:\Benelux_fenykepek_2016\MAH01949.MP4" arWidth="1920" arHeight="1080" duration="51.960000000000001" songTitle="" songArtist="" songAlbum="" songCopyrightUrl="" songArtistUrl="" songAudioFileUrl="" stabilizationMode="0" mediaItemType="1" />
     <MediaItem id="25" filePath="C:\Benelux_fenykepek_2016\DSC01866.JPG" arWidth="1280" arHeight="721" duration="0" songTitle="" songArtist="" songAlbum="" songCopyrightUrl="" songArtistUrl="" songAudioFileUrl="" stabilizationMode="0" mediaItemType="2" />
     <MediaItem id="79" filePath="C:\Benelux_fenykepek_2016\MAH01951.MP4" arWidth="1920" arHeight="1080" duration="122.04000000000001" songTitle="" songArtist="" songAlbum="" songCopyrightUrl="" songArtistUrl="" songAudioFileUrl="" stabilizationMode="0" mediaItemType="1" />
     <MediaItem id="26" filePath="C:\Benelux_fenykepek_2016\DSC01867.JPG" arWidth="2056" arHeight="3648" duration="0" songTitle="" songArtist="" songAlbum="" songCopyrightUrl="" songArtistUrl="" songAudioFileUrl="" stabilizationMode="0" mediaItemType="2" />
-    <MediaItem id="80" filePath="C:\Benelux_fenykepek_2016\MAH01952.MP4" arWidth="1920" arHeight="1080" duration="44.280000000000001" songTitle="" songArtist="" songAlbum="" songCopyrightUrl="" songArtistUrl="" songAudioFileUrl="" stabilizationMode="0" mediaItemType="1" />
+    <MediaItem id="80" filePath="C:\Benelux_fenykepek_2016\MAH01952.MP4" arWidth="5760" arHeight="3240" duration="44.159999900000003" songTitle="" songArtist="" songAlbum="" songCopyrightUrl="" songArtistUrl="" songAudioFileUrl="" stabilizationMode="0" mediaItemType="1" />
     <MediaItem id="27" filePath="C:\Benelux_fenykepek_2016\DSC01910.JPG" arWidth="2056" arHeight="3648" duration="0" songTitle="" songArtist="" songAlbum="" songCopyrightUrl="" songArtistUrl="" songAudioFileUrl="" stabilizationMode="0" mediaItemType="2" />
     <MediaItem id="81" filePath="C:\Benelux_fenykepek_2016\DSC01953.JPG" arWidth="3648" arHeight="2056" duration="0" songTitle="" songArtist="" songAlbum="" songCopyrightUrl="" songArtistUrl="" songAudioFileUrl="" stabilizationMode="0" mediaItemType="2" />
     <MediaItem id="28" filePath="C:\Benelux_fenykepek_2016\MAH01869.MP4" arWidth="1920" arHeight="1080" duration="32.280000000000001" songTitle="" songArtist="" songAlbum="" songCopyrightUrl="" songArtistUrl="" songAudioFileUrl="" stabilizationMode="0" mediaItemType="1" />
@@ -103,7 +96,6 @@
     <MediaItem id="97" filePath="C:\Benelux_fenykepek_2016\MAH01970.MP4" arWidth="1920" arHeight="1080" duration="45.239999900000001" songTitle="" songArtist="" songAlbum="" songCopyrightUrl="" songArtistUrl="" songAudioFileUrl="" stabilizationMode="0" mediaItemType="1" />
     <MediaItem id="44" filePath="C:\Benelux_fenykepek_2016\MAH01887.MP4" arWidth="5760" arHeight="3240" duration="37.439999999999998" songTitle="" songArtist="" songAlbum="" songCopyrightUrl="" songArtistUrl="" songAudioFileUrl="" stabilizationMode="0" mediaItemType="1" />
     <MediaItem id="98" filePath="C:\Benelux_fenykepek_2016\DSC01971.JPG" arWidth="3648" arHeight="2056" duration="0" songTitle="" songArtist="" songAlbum="" songCopyrightUrl="" songArtistUrl="" songAudioFileUrl="" stabilizationMode="0" mediaItemType="2" />
-    <MediaItem id="45" filePath="C:\Benelux_fenykepek_2016\DSC01914.JPG" arWidth="3648" arHeight="2056" duration="0" songTitle="" songArtist="" songAlbum="" songCopyrightUrl="" songArtistUrl="" songAudioFileUrl="" stabilizationMode="0" mediaItemType="2" />
     <MediaItem id="99" filePath="C:\Benelux_fenykepek_2016\DSC01972.JPG" arWidth="3648" arHeight="2056" duration="0" songTitle="" songArtist="" songAlbum="" songCopyrightUrl="" songArtistUrl="" songAudioFileUrl="" stabilizationMode="0" mediaItemType="2" />
     <MediaItem id="46" filePath="C:\Benelux_fenykepek_2016\DSC01889.JPG" arWidth="3648" arHeight="2056" duration="0" songTitle="" songArtist="" songAlbum="" songCopyrightUrl="" songArtistUrl="" songAudioFileUrl="" stabilizationMode="0" mediaItemType="2" />
     <MediaItem id="100" filePath="C:\Benelux_fenykepek_2016\MAH01973.MP4" arWidth="1920" arHeight="1080" duration="15.48" songTitle="" songArtist="" songAlbum="" songCopyrightUrl="" songArtistUrl="" songAudioFileUrl="" stabilizationMode="0" mediaItemType="1" />
@@ -115,7 +107,6 @@
     <MediaItem id="103" filePath="C:\Benelux_fenykepek_2016\DSC01976.JPG" arWidth="1280" arHeight="721" duration="0" songTitle="" songArtist="" songAlbum="" songCopyrightUrl="" songArtistUrl="" songAudioFileUrl="" stabilizationMode="0" mediaItemType="2" />
     <MediaItem id="50" filePath="C:\Benelux_fenykepek_2016\DSC01915.JPG" arWidth="3648" arHeight="2056" duration="0" songTitle="" songArtist="" songAlbum="" songCopyrightUrl="" songArtistUrl="" songAudioFileUrl="" stabilizationMode="0" mediaItemType="2" />
     <MediaItem id="104" filePath="C:\Benelux_fenykepek_2016\MAH01977.MP4" arWidth="1920" arHeight="1080" duration="5.8799999999999999" songTitle="" songArtist="" songAlbum="" songCopyrightUrl="" songArtistUrl="" songAudioFileUrl="" stabilizationMode="0" mediaItemType="1" />
-    <MediaItem id="51" filePath="C:\Benelux_fenykepek_2016\DSC01916.JPG" arWidth="3648" arHeight="2056" duration="0" songTitle="" songArtist="" songAlbum="" songCopyrightUrl="" songArtistUrl="" songAudioFileUrl="" stabilizationMode="0" mediaItemType="2" />
     <MediaItem id="105" filePath="C:\Benelux_fenykepek_2016\20160730_180155.jpg" arWidth="3264" arHeight="1836" duration="0" songTitle="" songArtist="" songAlbum="" songCopyrightUrl="" songArtistUrl="" songAudioFileUrl="" stabilizationMode="0" mediaItemType="2" />
     <MediaItem id="52" filePath="C:\Benelux_fenykepek_2016\DSC01917.JPG" arWidth="3648" arHeight="2056" duration="0" songTitle="" songArtist="" songAlbum="" songCopyrightUrl="" songArtistUrl="" songAudioFileUrl="" stabilizationMode="0" mediaItemType="2" />
   </MediaItems>
@@ -158,21 +149,21 @@
         <BoundPropertyFloat Name="Volume" Value="1" />
       </BoundProperties>
     </VideoClip>
-    <ImageClip extentID="12" gapBefore="0" mediaItemID="6" duration="7">
+    <ImageClip extentID="12" gapBefore="0" mediaItemID="6" duration="2.7999999999999998">
       <Effects />
       <Transitions />
       <BoundProperties>
         <BoundPropertyInt Name="rotateStepNinety" Value="0" />
       </BoundProperties>
     </ImageClip>
-    <ImageClip extentID="13" gapBefore="0" mediaItemID="7" duration="7">
+    <ImageClip extentID="13" gapBefore="0" mediaItemID="7" duration="2.7999999999999998">
       <Effects />
       <Transitions />
       <BoundProperties>
         <BoundPropertyInt Name="rotateStepNinety" Value="0" />
       </BoundProperties>
     </ImageClip>
-    <ImageClip extentID="14" gapBefore="0" mediaItemID="8" duration="7">
+    <ImageClip extentID="14" gapBefore="0" mediaItemID="8" duration="2.7999999999999998">
       <Effects />
       <Transitions />
       <BoundProperties>
@@ -283,14 +274,14 @@
         <BoundPropertyInt Name="rotateStepNinety" Value="0" />
       </BoundProperties>
     </ImageClip>
-    <ImageClip extentID="31" gapBefore="0" mediaItemID="14" duration="7">
+    <ImageClip extentID="31" gapBefore="0" mediaItemID="14" duration="2.7999999999999998">
       <Effects />
       <Transitions />
       <BoundProperties>
         <BoundPropertyInt Name="rotateStepNinety" Value="0" />
       </BoundProperties>
     </ImageClip>
-    <ImageClip extentID="32" gapBefore="0" mediaItemID="22" duration="7">
+    <ImageClip extentID="32" gapBefore="0" mediaItemID="22" duration="2.7999999999999998">
       <Effects />
       <Transitions />
       <BoundProperties>
@@ -304,7 +295,7 @@
         <BoundPropertyInt Name="rotateStepNinety" Value="0" />
       </BoundProperties>
     </ImageClip>
-    <ImageClip extentID="34" gapBefore="0" mediaItemID="27" duration="7">
+    <ImageClip extentID="34" gapBefore="0" mediaItemID="27" duration="2.7999999999999998">
       <Effects />
       <Transitions />
       <BoundProperties>
@@ -320,7 +311,7 @@
         <BoundPropertyFloat Name="Volume" Value="1" />
       </BoundProperties>
     </VideoClip>
-    <ImageClip extentID="36" gapBefore="0" mediaItemID="30" duration="7">
+    <ImageClip extentID="36" gapBefore="0" mediaItemID="30" duration="2.7999999999999998">
       <Effects />
       <Transitions />
       <BoundProperties>
@@ -340,14 +331,7 @@
         <BoundPropertyFloat Name="Volume" Value="1" />
       </BoundProperties>
     </VideoClip>
-    <ImageClip extentID="38" gapBefore="0" mediaItemID="34" duration="7">
-      <Effects />
-      <Transitions />
-      <BoundProperties>
-        <BoundPropertyInt Name="rotateStepNinety" Value="0" />
-      </BoundProperties>
-    </ImageClip>
-    <ImageClip extentID="39" gapBefore="0" mediaItemID="45" duration="7">
+    <ImageClip extentID="38" gapBefore="0" mediaItemID="34" duration="2.7999999999999998">
       <Effects />
       <Transitions />
       <BoundProperties>
@@ -367,14 +351,14 @@
         <BoundPropertyFloat Name="Volume" Value="1" />
       </BoundProperties>
     </VideoClip>
-    <ImageClip extentID="41" gapBefore="0" mediaItemID="50" duration="7">
+    <ImageClip extentID="41" gapBefore="0" mediaItemID="50" duration="2.7999999999999998">
       <Effects />
       <Transitions />
       <BoundProperties>
         <BoundPropertyInt Name="rotateStepNinety" Value="0" />
       </BoundProperties>
     </ImageClip>
-    <ImageClip extentID="43" gapBefore="0" mediaItemID="52" duration="7">
+    <ImageClip extentID="43" gapBefore="0" mediaItemID="52" duration="2.7999999999999998">
       <Effects />
       <Transitions />
       <BoundProperties>
@@ -394,13 +378,6 @@
         <BoundPropertyFloat Name="Volume" Value="1" />
       </BoundProperties>
     </VideoClip>
-    <ImageClip extentID="45" gapBefore="0" mediaItemID="53" duration="7">
-      <Effects />
-      <Transitions />
-      <BoundProperties>
-        <BoundPropertyInt Name="rotateStepNinety" Value="0" />
-      </BoundProperties>
-    </ImageClip>
     <VideoClip extentID="46" gapBefore="0" mediaItemID="42" inTime="0" outTime="0" speed="1" stabilizationMode="0">
       <Effects>
         <ShaderEffect effectTemplateID="FadeInFromBlackEffectTemplate">
@@ -414,7 +391,7 @@
         <BoundPropertyFloat Name="Volume" Value="1" />
       </BoundProperties>
     </VideoClip>
-    <ImageClip extentID="47" gapBefore="0" mediaItemID="54" duration="7">
+    <ImageClip extentID="47" gapBefore="0" mediaItemID="54" duration="2.7999999999999998">
       <Effects />
       <Transitions />
       <BoundProperties>
@@ -466,7 +443,7 @@
         <BoundPropertyInt Name="rotateStepNinety" Value="0" />
       </BoundProperties>
     </ImageClip>
-    <ImageClip extentID="54" gapBefore="0" mediaItemID="56" duration="7">
+    <ImageClip extentID="54" gapBefore="0" mediaItemID="56" duration="2.7999999999999998">
       <Effects />
       <Transitions />
       <BoundProperties>
@@ -589,14 +566,14 @@
         <BoundPropertyFloat Name="transparency" Value="1" />
       </BoundProperties>
     </TitleClip>
-    <ImageClip extentID="58" gapBefore="0" mediaItemID="57" duration="7">
+    <ImageClip extentID="58" gapBefore="0" mediaItemID="57" duration="2.7999999999999998">
       <Effects />
       <Transitions />
       <BoundProperties>
         <BoundPropertyInt Name="rotateStepNinety" Value="0" />
       </BoundProperties>
     </ImageClip>
-    <ImageClip extentID="59" gapBefore="0" mediaItemID="58" duration="7">
+    <ImageClip extentID="59" gapBefore="0" mediaItemID="58" duration="2.7999999999999998">
       <Effects />
       <Transitions />
       <BoundProperties>
@@ -669,7 +646,7 @@
         <BoundPropertyFloat Name="Volume" Value="1" />
       </BoundProperties>
     </VideoClip>
-    <ImageClip extentID="62" gapBefore="0" mediaItemID="59" duration="7">
+    <ImageClip extentID="62" gapBefore="0" mediaItemID="59" duration="2.7999999999999998">
       <Effects />
       <Transitions />
       <BoundProperties>
@@ -693,7 +670,7 @@
         <BoundPropertyFloat Name="Volume" Value="1" />
       </BoundProperties>
     </VideoClip>
-    <ImageClip extentID="64" gapBefore="0" mediaItemID="60" duration="7">
+    <ImageClip extentID="64" gapBefore="0" mediaItemID="60" duration="2.7999999999999998">
       <Effects />
       <Transitions />
       <BoundProperties>
@@ -713,21 +690,14 @@
         <BoundPropertyFloat Name="Volume" Value="1" />
       </BoundProperties>
     </VideoClip>
-    <ImageClip extentID="66" gapBefore="0" mediaItemID="61" duration="7">
+    <ImageClip extentID="67" gapBefore="0" mediaItemID="62" duration="2.7999999999999998">
       <Effects />
       <Transitions />
       <BoundProperties>
         <BoundPropertyInt Name="rotateStepNinety" Value="0" />
       </BoundProperties>
     </ImageClip>
-    <ImageClip extentID="67" gapBefore="0" mediaItemID="62" duration="7">
-      <Effects />
-      <Transitions />
-      <BoundProperties>
-        <BoundPropertyInt Name="rotateStepNinety" Value="0" />
-      </BoundProperties>
-    </ImageClip>
-    <ImageClip extentID="68" gapBefore="0" mediaItemID="63" duration="7">
+    <ImageClip extentID="68" gapBefore="0" mediaItemID="63" duration="2.7999999999999998">
       <Effects />
       <Transitions />
       <BoundProperties>
@@ -747,14 +717,14 @@
         <BoundPropertyFloat Name="Volume" Value="1" />
       </BoundProperties>
     </VideoClip>
-    <ImageClip extentID="70" gapBefore="0" mediaItemID="64" duration="7">
+    <ImageClip extentID="70" gapBefore="0" mediaItemID="64" duration="2.7999999999999998">
       <Effects />
       <Transitions />
       <BoundProperties>
         <BoundPropertyInt Name="rotateStepNinety" Value="0" />
       </BoundProperties>
     </ImageClip>
-    <ImageClip extentID="71" gapBefore="0" mediaItemID="65" duration="7">
+    <ImageClip extentID="71" gapBefore="0" mediaItemID="65" duration="2.7999999999999998">
       <Effects />
       <Transitions />
       <BoundProperties>
@@ -774,7 +744,7 @@
         <BoundPropertyFloat Name="Volume" Value="1" />
       </BoundProperties>
     </VideoClip>
-    <VideoClip extentID="73" gapBefore="0" mediaItemID="66" inTime="0" outTime="0" speed="1" stabilizationMode="0">
+    <VideoClip extentID="73" gapBefore="0" mediaItemID="66" inTime="0" outTime="24.873333333332994" speed="1" stabilizationMode="0">
       <Effects />
       <Transitions />
       <BoundProperties>
@@ -783,18 +753,13 @@
         <BoundPropertyFloat Name="Volume" Value="1" />
       </BoundProperties>
     </VideoClip>
-    <VideoClip extentID="74" gapBefore="0" mediaItemID="67" inTime="0" outTime="0" speed="1" stabilizationMode="0">
+    <VideoClip extentID="75" gapBefore="0" mediaItemID="68" inTime="0" outTime="16.706666666666365" speed="1" stabilizationMode="0">
       <Effects />
-      <Transitions />
-      <BoundProperties>
-        <BoundPropertyBool Name="Mute" Value="false" />
-        <BoundPropertyInt Name="rotateStepNinety" Value="0" />
-        <BoundPropertyFloat Name="Volume" Value="1" />
-      </BoundProperties>
-    </VideoClip>
-    <VideoClip extentID="75" gapBefore="0" mediaItemID="68" inTime="0" outTime="0" speed="1" stabilizationMode="0">
-      <Effects />
-      <Transitions />
+      <Transitions>
+        <ShapeEffect effectTemplateID="CrossfadeTransitionTemplate" duration="1.5">
+          <BoundProperties />
+        </ShapeEffect>
+      </Transitions>
       <BoundProperties>
         <BoundPropertyBool Name="Mute" Value="false" />
         <BoundPropertyInt Name="rotateStepNinety" Value="0" />
@@ -885,7 +850,7 @@
         <BoundPropertyFloat Name="Volume" Value="1" />
       </BoundProperties>
     </VideoClip>
-    <TitleClip extentID="84" gapBefore="1159.8600398999995" duration="2.7799599999998463">
+    <TitleClip extentID="84" gapBefore="1063.3000398999991" duration="2.7799599999998463">
       <Effects>
         <TextEffect effectTemplateID="TextEffectTemplate" TextScriptId="0">
           <BoundProperties>
@@ -1189,21 +1154,21 @@
         <BoundPropertyInt Name="rotateStepNinety" Value="0" />
       </BoundProperties>
     </ImageClip>
-    <ImageClip extentID="118" gapBefore="0" mediaItemID="107" duration="7">
+    <ImageClip extentID="118" gapBefore="0" mediaItemID="107" duration="2.7999999999999998">
       <Effects />
       <Transitions />
       <BoundProperties>
         <BoundPropertyInt Name="rotateStepNinety" Value="0" />
       </BoundProperties>
     </ImageClip>
-    <ImageClip extentID="120" gapBefore="0" mediaItemID="109" duration="7">
+    <ImageClip extentID="120" gapBefore="0" mediaItemID="109" duration="2.7999999999999998">
       <Effects />
       <Transitions />
       <BoundProperties>
         <BoundPropertyInt Name="rotateStepNinety" Value="0" />
       </BoundProperties>
     </ImageClip>
-    <ImageClip extentID="121" gapBefore="0" mediaItemID="110" duration="7">
+    <ImageClip extentID="121" gapBefore="0" mediaItemID="110" duration="2.7999999999999998">
       <Effects />
       <Transitions />
       <BoundProperties>
@@ -1224,7 +1189,7 @@
         <BoundPropertyInt Name="rotateStepNinety" Value="0" />
       </BoundProperties>
     </ImageClip>
-    <VideoClip extentID="124" gapBefore="0" mediaItemID="3" inTime="5.6333333333332689" outTime="21.719999999999999" speed="1" stabilizationMode="0">
+    <VideoClip extentID="124" gapBefore="0" mediaItemID="3" inTime="5.6333333333332689" outTime="0" speed="1" stabilizationMode="0">
       <Effects>
         <ShaderEffect effectTemplateID="FadeInFromBlackEffectTemplate">
           <BoundProperties />
@@ -1291,7 +1256,7 @@
         <BoundPropertyFloat Name="transparency" Value="1" />
       </BoundProperties>
     </TitleClip>
-    <VideoClip extentID="126" gapBefore="0" mediaItemID="2" inTime="6.3133333333332189" outTime="15.960000000000001" speed="1" stabilizationMode="0">
+    <VideoClip extentID="126" gapBefore="0" mediaItemID="2" inTime="6.3133333333332189" outTime="0" speed="1" stabilizationMode="0">
       <Effects />
       <Transitions>
         <ShapeEffect effectTemplateID="CrossfadeTransitionTemplate" duration="1.5">
@@ -1313,7 +1278,7 @@
         <BoundPropertyFloat Name="Volume" Value="1" />
       </BoundProperties>
     </VideoClip>
-    <TitleClip extentID="130" gapBefore="85.199999999999932" duration="6.9866666666665083">
+    <TitleClip extentID="130" gapBefore="72.599999999999966" duration="2.5466666666665674">
       <Effects>
         <TextEffect effectTemplateID="TextEffectTemplate" TextScriptId="0">
           <BoundProperties>
@@ -1393,7 +1358,7 @@
         <BoundPropertyFloat Name="Volume" Value="1" />
       </BoundProperties>
     </VideoClip>
-    <TitleClip extentID="138" gapBefore="57.146666666666874" duration="6.3333333333333144">
+    <TitleClip extentID="138" gapBefore="44.113340454101774" duration="1.8933333333333735">
       <Effects>
         <TextEffect effectTemplateID="TextEffectTemplate" TextScriptId="0">
           <BoundProperties>
@@ -1446,14 +1411,14 @@
         <BoundPropertyFloat Name="transparency" Value="1" />
       </BoundProperties>
     </TitleClip>
-    <ImageClip extentID="140" gapBefore="0" mediaItemID="114" duration="7">
+    <ImageClip extentID="140" gapBefore="0" mediaItemID="114" duration="2.7999999999999998">
       <Effects />
       <Transitions />
       <BoundProperties>
         <BoundPropertyInt Name="rotateStepNinety" Value="0" />
       </BoundProperties>
     </ImageClip>
-    <TitleClip extentID="141" gapBefore="7" duration="7.0000000000000568">
+    <TitleClip extentID="141" gapBefore="0.23999999999995225" duration="2.5600000000000591">
       <Effects>
         <TextEffect effectTemplateID="TextEffectTemplate" TextScriptId="0">
           <BoundProperties>
@@ -1506,7 +1471,7 @@
         <BoundPropertyFloat Name="transparency" Value="1" />
       </BoundProperties>
     </TitleClip>
-    <TitleClip extentID="142" gapBefore="0.033333333333303017" duration="6.966666666666697">
+    <TitleClip extentID="142" gapBefore="0.36460113525390625" duration="2.4353988647461051">
       <Effects>
         <TextEffect effectTemplateID="TextEffectTemplate" TextScriptId="0">
           <BoundProperties>
@@ -1560,7 +1525,7 @@
         <BoundPropertyFloat Name="transparency" Value="1" />
       </BoundProperties>
     </TitleClip>
-    <TitleClip extentID="143" gapBefore="0.033333333333303017" duration="6.966666666666697">
+    <TitleClip extentID="143" gapBefore="0.72914886474609375" duration="2.0708511352539176">
       <Effects>
         <TextEffect effectTemplateID="TextEffectTemplate" TextScriptId="0">
           <BoundProperties>
@@ -1591,12 +1556,13 @@
             <BoundPropertyInt Name="outlineSizeIndex" Value="0" />
             <BoundPropertyFloatSet Name="position">
               <BoundPropertyFloatElement Value="0" />
-              <BoundPropertyFloatElement Value="-1.3050847053527832" />
+              <BoundPropertyFloatElement Value="-0.86440682411193848" />
               <BoundPropertyFloatElement Value="0.02500000037252903" />
             </BoundPropertyFloatSet>
             <BoundPropertyFloat Name="size" Value="0.40000000596046448" />
             <BoundPropertyStringSet Name="string">
-              <BoundPropertyStringElement Value="Rembrandt önarcképe pál apostolként és " />
+              <BoundPropertyStringElement Value="Rembrandt önarcképe P" />
+              <BoundPropertyStringElement Value="ál apostolként és " />
               <BoundPropertyStringElement Value="fia,Titus barátként" />
               <BoundPropertyStringElement Value="" />
             </BoundPropertyStringSet>
@@ -1615,7 +1581,7 @@
         <BoundPropertyFloat Name="transparency" Value="1" />
       </BoundProperties>
     </TitleClip>
-    <TitleClip extentID="144" gapBefore="0.033333333333303017" duration="6.966666666666697">
+    <TitleClip extentID="144" gapBefore="0.27333333333331211" duration="2.5266666666666993">
       <Effects>
         <TextEffect effectTemplateID="TextEffectTemplate" TextScriptId="0">
           <BoundProperties>
@@ -1645,13 +1611,13 @@
             </BoundPropertyFloatSet>
             <BoundPropertyInt Name="outlineSizeIndex" Value="0" />
             <BoundPropertyFloatSet Name="position">
-              <BoundPropertyFloatElement Value="-0.067940711975097656" />
-              <BoundPropertyFloatElement Value="-2.1864404678344727" />
+              <BoundPropertyFloatElement Value="2.6157112121582031" />
+              <BoundPropertyFloatElement Value="-2.1525425910949707" />
               <BoundPropertyFloatElement Value="0.02500000037252903" />
             </BoundPropertyFloatSet>
             <BoundPropertyFloat Name="size" Value="0.40000000596046448" />
             <BoundPropertyStringSet Name="string">
-              <BoundPropertyStringElement Value="Jan Vermeer:Ddelfti ház" />
+              <BoundPropertyStringElement Value="Jan Vermeer:Delfti ház" />
             </BoundPropertyStringSet>
             <BoundPropertyString Name="style" Value="Bold" />
             <BoundPropertyFloat Name="transparency" Value="0" />
@@ -1668,35 +1634,35 @@
         <BoundPropertyFloat Name="transparency" Value="1" />
       </BoundProperties>
     </TitleClip>
-    <ImageClip extentID="145" gapBefore="0" mediaItemID="115" duration="7">
+    <ImageClip extentID="145" gapBefore="0" mediaItemID="115" duration="2.7999999999999998">
       <Effects />
       <Transitions />
       <BoundProperties>
         <BoundPropertyInt Name="rotateStepNinety" Value="0" />
       </BoundProperties>
     </ImageClip>
-    <ImageClip extentID="146" gapBefore="0" mediaItemID="116" duration="7">
+    <ImageClip extentID="146" gapBefore="0" mediaItemID="116" duration="2.7999999999999998">
       <Effects />
       <Transitions />
       <BoundProperties>
         <BoundPropertyInt Name="rotateStepNinety" Value="0" />
       </BoundProperties>
     </ImageClip>
-    <ImageClip extentID="147" gapBefore="0" mediaItemID="117" duration="7">
+    <ImageClip extentID="147" gapBefore="0" mediaItemID="117" duration="2.7999999999999998">
       <Effects />
       <Transitions />
       <BoundProperties>
         <BoundPropertyInt Name="rotateStepNinety" Value="0" />
       </BoundProperties>
     </ImageClip>
-    <ImageClip extentID="149" gapBefore="0" mediaItemID="119" duration="7">
+    <ImageClip extentID="149" gapBefore="0" mediaItemID="119" duration="2.7999999999999998">
       <Effects />
       <Transitions />
       <BoundProperties>
         <BoundPropertyInt Name="rotateStepNinety" Value="0" />
       </BoundProperties>
     </ImageClip>
-    <TitleClip extentID="151" gapBefore="0.033333333333303017" duration="6.966666666666697">
+    <TitleClip extentID="151" gapBefore="0.27333333333331211" duration="2.5266666666666993">
       <Effects>
         <TextEffect effectTemplateID="TextEffectTemplate" TextScriptId="0">
           <BoundProperties>
@@ -1749,7 +1715,7 @@
         <BoundPropertyFloat Name="transparency" Value="1" />
       </BoundProperties>
     </TitleClip>
-    <TitleClip extentID="152" gapBefore="0.033333333333303017" duration="6.966666666666697">
+    <TitleClip extentID="152" gapBefore="0.27333333333331211" duration="2.5266666666666993">
       <Effects>
         <TextEffect effectTemplateID="TextEffectTemplate" TextScriptId="0">
           <BoundProperties>
@@ -1803,7 +1769,7 @@
         <BoundPropertyFloat Name="transparency" Value="1" />
       </BoundProperties>
     </TitleClip>
-    <TitleClip extentID="153" gapBefore="0.033333333333303017" duration="6.966666666666697">
+    <TitleClip extentID="153" gapBefore="0.27333333333331211" duration="2.5266666666666993">
       <Effects>
         <TextEffect effectTemplateID="TextEffectTemplate" TextScriptId="0">
           <BoundProperties>
@@ -1857,7 +1823,7 @@
         <BoundPropertyFloat Name="transparency" Value="1" />
       </BoundProperties>
     </TitleClip>
-    <TitleClip extentID="154" gapBefore="0.033333333333303017" duration="6.966666666666697">
+    <TitleClip extentID="156" gapBefore="12.821225077311226" duration="1.8521011352539176">
       <Effects>
         <TextEffect effectTemplateID="TextEffectTemplate" TextScriptId="0">
           <BoundProperties>
@@ -1887,67 +1853,14 @@
             </BoundPropertyFloatSet>
             <BoundPropertyInt Name="outlineSizeIndex" Value="0" />
             <BoundPropertyFloatSet Name="position">
-              <BoundPropertyFloatElement Value="0" />
-              <BoundPropertyFloatElement Value="-1.745762825012207" />
+              <BoundPropertyFloatElement Value="-0.20382165908813477" />
+              <BoundPropertyFloatElement Value="-1.3050847053527832" />
               <BoundPropertyFloatElement Value="0.02500000037252903" />
             </BoundPropertyFloatSet>
             <BoundPropertyFloat Name="size" Value="0.40000000596046448" />
             <BoundPropertyStringSet Name="string">
-              <BoundPropertyStringElement Value="Johannes_Vermeer_- Fejőnő" />
-            </BoundPropertyStringSet>
-            <BoundPropertyString Name="style" Value="Plain" />
-            <BoundPropertyFloat Name="transparency" Value="0" />
-          </BoundProperties>
-        </TextEffect>
-      </Effects>
-      <Transitions />
-      <BoundProperties>
-        <BoundPropertyFloatSet Name="diffuseColor">
-          <BoundPropertyFloatElement Value="0.75" />
-          <BoundPropertyFloatElement Value="1" />
-          <BoundPropertyFloatElement Value="0" />
-        </BoundPropertyFloatSet>
-        <BoundPropertyFloat Name="transparency" Value="1" />
-      </BoundProperties>
-    </TitleClip>
-    <TitleClip extentID="156" gapBefore="21" duration="7">
-      <Effects>
-        <TextEffect effectTemplateID="TextEffectTemplate" TextScriptId="0">
-          <BoundProperties>
-            <BoundPropertyBool Name="automatic" Value="false" />
-            <BoundPropertyFloatSet Name="color">
-              <BoundPropertyFloatElement Value="1" />
-              <BoundPropertyFloatElement Value="1" />
-              <BoundPropertyFloatElement Value="1" />
-            </BoundPropertyFloatSet>
-            <BoundPropertyStringSet Name="family">
-              <BoundPropertyStringElement Value="Segoe UI" />
-            </BoundPropertyStringSet>
-            <BoundPropertyBool Name="horizontal" Value="true" />
-            <BoundPropertyStringSet Name="justify">
-              <BoundPropertyStringElement Value="MIDDLE" />
-            </BoundPropertyStringSet>
-            <BoundPropertyBool Name="leftToRight" Value="true" />
-            <BoundPropertyFloatSet Name="length">
-              <BoundPropertyFloatElement Value="4.0999999046325684" />
-              <BoundPropertyFloatElement Value="5.1999998092651367" />
-            </BoundPropertyFloatSet>
-            <BoundPropertyFloat Name="maxExtent" Value="5" />
-            <BoundPropertyFloatSet Name="outlineColor">
-              <BoundPropertyFloatElement Value="0.64705884456634521" />
-              <BoundPropertyFloatElement Value="0.64705884456634521" />
-              <BoundPropertyFloatElement Value="0.64705884456634521" />
-            </BoundPropertyFloatSet>
-            <BoundPropertyInt Name="outlineSizeIndex" Value="0" />
-            <BoundPropertyFloatSet Name="position">
-              <BoundPropertyFloatElement Value="0" />
-              <BoundPropertyFloatElement Value="-1.745762825012207" />
-              <BoundPropertyFloatElement Value="0.02500000037252903" />
-            </BoundPropertyFloatSet>
-            <BoundPropertyFloat Name="size" Value="0.40000000596046448" />
-            <BoundPropertyStringSet Name="string">
-              <BoundPropertyStringElement Value="Jan Steen: Önarckép" />
-              <BoundPropertyStringElement Value="" />
+              <BoundPropertyStringElement Value="Rembrandt:Claudius Civilis " />
+              <BoundPropertyStringElement Value="összeesküvése" />
             </BoundPropertyStringSet>
             <BoundPropertyString Name="style" Value="Plain" />
             <BoundPropertyFloat Name="transparency" Value="0" />
@@ -2021,31 +1934,27 @@
         <ExtentRef id="136" />
         <ExtentRef id="31" />
         <ExtentRef id="32" />
+        <ExtentRef id="71" />
         <ExtentRef id="34" />
         <ExtentRef id="36" />
         <ExtentRef id="38" />
-        <ExtentRef id="39" />
         <ExtentRef id="41" />
         <ExtentRef id="140" />
         <ExtentRef id="43" />
-        <ExtentRef id="45" />
+        <ExtentRef id="149" />
         <ExtentRef id="47" />
         <ExtentRef id="145" />
         <ExtentRef id="146" />
         <ExtentRef id="147" />
-        <ExtentRef id="149" />
         <ExtentRef id="54" />
         <ExtentRef id="58" />
         <ExtentRef id="59" />
         <ExtentRef id="62" />
         <ExtentRef id="64" />
-        <ExtentRef id="66" />
         <ExtentRef id="67" />
         <ExtentRef id="68" />
         <ExtentRef id="70" />
-        <ExtentRef id="71" />
         <ExtentRef id="73" />
-        <ExtentRef id="74" />
         <ExtentRef id="75" />
         <ExtentRef id="77" />
         <ExtentRef id="78" />
@@ -2119,7 +2028,6 @@
         <ExtentRef id="151" />
         <ExtentRef id="152" />
         <ExtentRef id="153" />
-        <ExtentRef id="154" />
         <ExtentRef id="84" />
       </ExtentRefs>
     </ExtentSelector>
