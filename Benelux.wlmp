@@ -24,7 +24,7 @@
     <MediaItem id="10" filePath="C:\Benelux_fenykepek_2016\MAH01906.MP4" arWidth="5760" arHeight="3240" duration="39.359999999999999" songTitle="" songArtist="" songAlbum="" songCopyrightUrl="" songArtistUrl="" songAudioFileUrl="" stabilizationMode="0" mediaItemType="1" />
     <MediaItem id="174" filePath="C:\Benelux_fenykepek_2016\DSC02051.JPG" arWidth="2056" arHeight="3648" duration="0" songTitle="" songArtist="" songAlbum="" songCopyrightUrl="" songArtistUrl="" songAudioFileUrl="" stabilizationMode="0" mediaItemType="2" />
     <MediaItem id="11" filePath="C:\Benelux_fenykepek_2016\DSC01851.JPG" arWidth="3648" arHeight="2056" duration="0" songTitle="" songArtist="" songAlbum="" songCopyrightUrl="" songArtistUrl="" songAudioFileUrl="" stabilizationMode="0" mediaItemType="2" />
-    <MediaItem id="175" filePath="C:\Benelux_fenykepek_2016\DSC02052.JPG" arWidth="3648" arHeight="2056" duration="0" songTitle="" songArtist="" songAlbum="" songCopyrightUrl="" songArtistUrl="" songAudioFileUrl="" stabilizationMode="0" mediaItemType="2" />
+    <MediaItem id="175" filePath="C:\Benelux_fenykepek_2016\DSC02052.JPG" arWidth="1280" arHeight="721" duration="0" songTitle="" songArtist="" songAlbum="" songCopyrightUrl="" songArtistUrl="" songAudioFileUrl="" stabilizationMode="0" mediaItemType="2" />
     <MediaItem id="12" filePath="C:\Benelux_fenykepek_2016\MAH01907.MP4" arWidth="5760" arHeight="3240" duration="30.719999999999999" songTitle="" songArtist="" songAlbum="" songCopyrightUrl="" songArtistUrl="" songAudioFileUrl="" stabilizationMode="0" mediaItemType="1" />
     <MediaItem id="176" filePath="C:\Benelux_fenykepek_2016\DSC02053.JPG" arWidth="2056" arHeight="3648" duration="0" songTitle="" songArtist="" songAlbum="" songCopyrightUrl="" songArtistUrl="" songAudioFileUrl="" stabilizationMode="0" mediaItemType="2" />
     <MediaItem id="13" filePath="C:\Benelux_fenykepek_2016\DSC01854.JPG" arWidth="3648" arHeight="2056" duration="0" songTitle="" songArtist="" songAlbum="" songCopyrightUrl="" songArtistUrl="" songAudioFileUrl="" stabilizationMode="0" mediaItemType="2" />
@@ -62,11 +62,11 @@
     <MediaItem id="29" filePath="C:\Benelux_fenykepek_2016\DSC01870.JPG" arWidth="3648" arHeight="2056" duration="0" songTitle="" songArtist="" songAlbum="" songCopyrightUrl="" songArtistUrl="" songAudioFileUrl="" stabilizationMode="0" mediaItemType="2" />
     <MediaItem id="193" filePath="C:\Benelux_fenykepek_2016\DSC02072.JPG" arWidth="2056" arHeight="3648" duration="0" songTitle="" songArtist="" songAlbum="" songCopyrightUrl="" songArtistUrl="" songAudioFileUrl="" stabilizationMode="0" mediaItemType="2" />
     <MediaItem id="30" filePath="C:\Benelux_fenykepek_2016\DSC01912.JPG" arWidth="2056" arHeight="3648" duration="0" songTitle="" songArtist="" songAlbum="" songCopyrightUrl="" songArtistUrl="" songAudioFileUrl="" stabilizationMode="0" mediaItemType="2" />
-    <MediaItem id="194" filePath="C:\Benelux_fenykepek_2016\MAH02073.MP4" arWidth="5760" arHeight="3240" duration="73.439999999999998" songTitle="" songArtist="" songAlbum="" songCopyrightUrl="" songArtistUrl="" songAudioFileUrl="" stabilizationMode="0" mediaItemType="1" />
+    <MediaItem id="194" filePath="C:\Benelux_fenykepek_2016\MAH02073.MP4" arWidth="1920" arHeight="1080" duration="73.560000000000002" songTitle="" songArtist="" songAlbum="" songCopyrightUrl="" songArtistUrl="" songAudioFileUrl="" stabilizationMode="0" mediaItemType="1" />
     <MediaItem id="31" filePath="C:\Benelux_fenykepek_2016\MAH01873.MP4" arWidth="5760" arHeight="3240" duration="26.879999999999999" songTitle="" songArtist="" songAlbum="" songCopyrightUrl="" songArtistUrl="" songAudioFileUrl="" stabilizationMode="0" mediaItemType="1" />
-    <MediaItem id="195" filePath="C:\Benelux_fenykepek_2016\DSC02075.JPG" arWidth="721" arHeight="1280" duration="0" songTitle="" songArtist="" songAlbum="" songCopyrightUrl="" songArtistUrl="" songAudioFileUrl="" stabilizationMode="0" mediaItemType="2" />
+    <MediaItem id="195" filePath="C:\Benelux_fenykepek_2016\DSC02075.JPG" arWidth="2056" arHeight="3648" duration="0" songTitle="" songArtist="" songAlbum="" songCopyrightUrl="" songArtistUrl="" songAudioFileUrl="" stabilizationMode="0" mediaItemType="2" />
     <MediaItem id="32" filePath="C:\Benelux_fenykepek_2016\MAH01874.MP4" arWidth="5760" arHeight="3240" duration="53.759999999999998" songTitle="" songArtist="" songAlbum="" songCopyrightUrl="" songArtistUrl="" songAudioFileUrl="" stabilizationMode="0" mediaItemType="1" />
-    <MediaItem id="196" filePath="C:\Benelux_fenykepek_2016\DSC02076.JPG" arWidth="1280" arHeight="721" duration="0" songTitle="" songArtist="" songAlbum="" songCopyrightUrl="" songArtistUrl="" songAudioFileUrl="" stabilizationMode="0" mediaItemType="2" />
+    <MediaItem id="196" filePath="C:\Benelux_fenykepek_2016\DSC02076.JPG" arWidth="3648" arHeight="2056" duration="0" songTitle="" songArtist="" songAlbum="" songCopyrightUrl="" songArtistUrl="" songAudioFileUrl="" stabilizationMode="0" mediaItemType="2" />
     <MediaItem id="33" filePath="C:\Benelux_fenykepek_2016\MAH01875.MP4" arWidth="5760" arHeight="3240" duration="20.16" songTitle="" songArtist="" songAlbum="" songCopyrightUrl="" songArtistUrl="" songAudioFileUrl="" stabilizationMode="0" mediaItemType="1" />
     <MediaItem id="197" filePath="C:\Benelux_fenykepek_2016\DSC02077.JPG" arWidth="2056" arHeight="3648" duration="0" songTitle="" songArtist="" songAlbum="" songCopyrightUrl="" songArtistUrl="" songAudioFileUrl="" stabilizationMode="0" mediaItemType="2" />
     <MediaItem id="34" filePath="C:\Benelux_fenykepek_2016\DSC01913.JPG" arWidth="3648" arHeight="2056" duration="0" songTitle="" songArtist="" songAlbum="" songCopyrightUrl="" songArtistUrl="" songAudioFileUrl="" stabilizationMode="0" mediaItemType="2" />
@@ -74,7 +74,7 @@
     <MediaItem id="35" filePath="C:\Benelux_fenykepek_2016\MAH01877.MP4" arWidth="5760" arHeight="3240" duration="42.240000000000002" songTitle="" songArtist="" songAlbum="" songCopyrightUrl="" songArtistUrl="" songAudioFileUrl="" stabilizationMode="0" mediaItemType="1" />
     <MediaItem id="199" filePath="C:\Benelux_fenykepek_2016\DSC02079.JPG" arWidth="2056" arHeight="3648" duration="0" songTitle="" songArtist="" songAlbum="" songCopyrightUrl="" songArtistUrl="" songAudioFileUrl="" stabilizationMode="0" mediaItemType="2" />
     <MediaItem id="36" filePath="C:\Benelux_fenykepek_2016\MAH01878.MP4" arWidth="5760" arHeight="3240" duration="39.359999999999999" songTitle="" songArtist="" songAlbum="" songCopyrightUrl="" songArtistUrl="" songAudioFileUrl="" stabilizationMode="0" mediaItemType="1" />
-    <MediaItem id="200" filePath="C:\Benelux_fenykepek_2016\DSC02080.JPG" arWidth="3648" arHeight="2056" duration="0" songTitle="" songArtist="" songAlbum="" songCopyrightUrl="" songArtistUrl="" songAudioFileUrl="" stabilizationMode="0" mediaItemType="2" />
+    <MediaItem id="200" filePath="C:\Benelux_fenykepek_2016\DSC02080.JPG" arWidth="1280" arHeight="721" duration="0" songTitle="" songArtist="" songAlbum="" songCopyrightUrl="" songArtistUrl="" songAudioFileUrl="" stabilizationMode="0" mediaItemType="2" />
     <MediaItem id="37" filePath="C:\Benelux_fenykepek_2016\MAH01879.MP4" arWidth="5760" arHeight="3240" duration="29.280000000000001" songTitle="" songArtist="" songAlbum="" songCopyrightUrl="" songArtistUrl="" songAudioFileUrl="" stabilizationMode="0" mediaItemType="1" />
     <MediaItem id="201" filePath="C:\Benelux_fenykepek_2016\DSC02081.JPG" arWidth="3648" arHeight="2056" duration="0" songTitle="" songArtist="" songAlbum="" songCopyrightUrl="" songArtistUrl="" songAudioFileUrl="" stabilizationMode="0" mediaItemType="2" />
     <MediaItem id="38" filePath="C:\Benelux_fenykepek_2016\MAH01880.MP4" arWidth="5760" arHeight="3240" duration="77.760000000000005" songTitle="" songArtist="" songAlbum="" songCopyrightUrl="" songArtistUrl="" songAudioFileUrl="" stabilizationMode="0" mediaItemType="1" />
@@ -84,9 +84,9 @@
     <MediaItem id="40" filePath="C:\Benelux_fenykepek_2016\MAH01882.MP4" arWidth="5760" arHeight="3240" duration="39.840000000000003" songTitle="" songArtist="" songAlbum="" songCopyrightUrl="" songArtistUrl="" songAudioFileUrl="" stabilizationMode="0" mediaItemType="1" />
     <MediaItem id="204" filePath="C:\Benelux_fenykepek_2016\DSC02087.JPG" arWidth="3648" arHeight="2056" duration="0" songTitle="" songArtist="" songAlbum="" songCopyrightUrl="" songArtistUrl="" songAudioFileUrl="" stabilizationMode="0" mediaItemType="2" />
     <MediaItem id="41" filePath="C:\Benelux_fenykepek_2016\MAH01883.MP4" arWidth="5760" arHeight="3240" duration="15.359999999999999" songTitle="" songArtist="" songAlbum="" songCopyrightUrl="" songArtistUrl="" songAudioFileUrl="" stabilizationMode="0" mediaItemType="1" />
-    <MediaItem id="205" filePath="C:\Benelux_fenykepek_2016\DSC02088.JPG" arWidth="1280" arHeight="721" duration="0" songTitle="" songArtist="" songAlbum="" songCopyrightUrl="" songArtistUrl="" songAudioFileUrl="" stabilizationMode="0" mediaItemType="2" />
+    <MediaItem id="205" filePath="C:\Benelux_fenykepek_2016\DSC02088.JPG" arWidth="3648" arHeight="2056" duration="0" songTitle="" songArtist="" songAlbum="" songCopyrightUrl="" songArtistUrl="" songAudioFileUrl="" stabilizationMode="0" mediaItemType="2" />
     <MediaItem id="42" filePath="C:\Benelux_fenykepek_2016\MAH01885.MP4" arWidth="5760" arHeight="3240" duration="27.359999999999999" songTitle="" songArtist="" songAlbum="" songCopyrightUrl="" songArtistUrl="" songAudioFileUrl="" stabilizationMode="0" mediaItemType="1" />
-    <MediaItem id="206" filePath="C:\Benelux_fenykepek_2016\DSC02089.JPG" arWidth="1280" arHeight="721" duration="0" songTitle="" songArtist="" songAlbum="" songCopyrightUrl="" songArtistUrl="" songAudioFileUrl="" stabilizationMode="0" mediaItemType="2" />
+    <MediaItem id="206" filePath="C:\Benelux_fenykepek_2016\DSC02089.JPG" arWidth="3648" arHeight="2056" duration="0" songTitle="" songArtist="" songAlbum="" songCopyrightUrl="" songArtistUrl="" songAudioFileUrl="" stabilizationMode="0" mediaItemType="2" />
     <MediaItem id="43" filePath="C:\Benelux_fenykepek_2016\MAH01886.MP4" arWidth="1920" arHeight="1080" duration="90.840000000000003" songTitle="" songArtist="" songAlbum="" songCopyrightUrl="" songArtistUrl="" songAudioFileUrl="" stabilizationMode="0" mediaItemType="1" />
     <MediaItem id="44" filePath="C:\Benelux_fenykepek_2016\MAH01887.MP4" arWidth="5760" arHeight="3240" duration="37.439999999999998" songTitle="" songArtist="" songAlbum="" songCopyrightUrl="" songArtistUrl="" songAudioFileUrl="" stabilizationMode="0" mediaItemType="1" />
     <MediaItem id="45" filePath="C:\Benelux_fenykepek_2016\DSC01980.JPG" arWidth="3648" arHeight="2056" duration="0" songTitle="" songArtist="" songAlbum="" songCopyrightUrl="" songArtistUrl="" songAudioFileUrl="" stabilizationMode="0" mediaItemType="2" />
@@ -184,17 +184,17 @@
     <MediaItem id="146" filePath="C:\Benelux_fenykepek_2016\DSC02020.JPG" arWidth="3648" arHeight="2056" duration="0" songTitle="" songArtist="" songAlbum="" songCopyrightUrl="" songArtistUrl="" songAudioFileUrl="" stabilizationMode="0" mediaItemType="2" />
     <MediaItem id="147" filePath="C:\Benelux_fenykepek_2016\MAH02021.MP4" arWidth="5760" arHeight="3240" duration="42.719999999999999" songTitle="" songArtist="" songAlbum="" songCopyrightUrl="" songArtistUrl="" songAudioFileUrl="" stabilizationMode="0" mediaItemType="1" />
     <MediaItem id="148" filePath="C:\Benelux_fenykepek_2016\DSC02022.JPG" arWidth="1280" arHeight="721" duration="0" songTitle="" songArtist="" songAlbum="" songCopyrightUrl="" songArtistUrl="" songAudioFileUrl="" stabilizationMode="0" mediaItemType="2" />
-    <MediaItem id="149" filePath="C:\Benelux_fenykepek_2016\DSC02023.JPG" arWidth="768" arHeight="433" duration="0" songTitle="" songArtist="" songAlbum="" songCopyrightUrl="" songArtistUrl="" songAudioFileUrl="" stabilizationMode="0" mediaItemType="2" />
+    <MediaItem id="149" filePath="C:\Benelux_fenykepek_2016\DSC02023.JPG" arWidth="3648" arHeight="2056" duration="0" songTitle="" songArtist="" songAlbum="" songCopyrightUrl="" songArtistUrl="" songAudioFileUrl="" stabilizationMode="0" mediaItemType="2" />
     <MediaItem id="150" filePath="C:\Benelux_fenykepek_2016\DSC02024.JPG" arWidth="3648" arHeight="2056" duration="0" songTitle="" songArtist="" songAlbum="" songCopyrightUrl="" songArtistUrl="" songAudioFileUrl="" stabilizationMode="0" mediaItemType="2" />
     <MediaItem id="151" filePath="C:\Benelux_fenykepek_2016\DSC02025.JPG" arWidth="3648" arHeight="2056" duration="0" songTitle="" songArtist="" songAlbum="" songCopyrightUrl="" songArtistUrl="" songAudioFileUrl="" stabilizationMode="0" mediaItemType="2" />
     <MediaItem id="152" filePath="C:\Benelux_fenykepek_2016\DSC02026.JPG" arWidth="3648" arHeight="2056" duration="0" songTitle="" songArtist="" songAlbum="" songCopyrightUrl="" songArtistUrl="" songAudioFileUrl="" stabilizationMode="0" mediaItemType="2" />
     <MediaItem id="153" filePath="C:\Benelux_fenykepek_2016\DSC02027.JPG" arWidth="3648" arHeight="2056" duration="0" songTitle="" songArtist="" songAlbum="" songCopyrightUrl="" songArtistUrl="" songAudioFileUrl="" stabilizationMode="0" mediaItemType="2" />
-    <MediaItem id="154" filePath="C:\Benelux_fenykepek_2016\DSC02028.JPG" arWidth="1280" arHeight="721" duration="0" songTitle="" songArtist="" songAlbum="" songCopyrightUrl="" songArtistUrl="" songAudioFileUrl="" stabilizationMode="0" mediaItemType="2" />
+    <MediaItem id="154" filePath="C:\Benelux_fenykepek_2016\DSC02028.JPG" arWidth="3648" arHeight="2056" duration="0" songTitle="" songArtist="" songAlbum="" songCopyrightUrl="" songArtistUrl="" songAudioFileUrl="" stabilizationMode="0" mediaItemType="2" />
     <MediaItem id="155" filePath="C:\Benelux_fenykepek_2016\MAH02029.MP4" arWidth="5760" arHeight="3240" duration="47.039999999999999" songTitle="" songArtist="" songAlbum="" songCopyrightUrl="" songArtistUrl="" songAudioFileUrl="" stabilizationMode="0" mediaItemType="1" />
     <MediaItem id="156" filePath="C:\Benelux_fenykepek_2016\DSC02031.JPG" arWidth="3648" arHeight="2056" duration="0" songTitle="" songArtist="" songAlbum="" songCopyrightUrl="" songArtistUrl="" songAudioFileUrl="" stabilizationMode="0" mediaItemType="2" />
     <MediaItem id="157" filePath="C:\Benelux_fenykepek_2016\DSC02032.JPG" arWidth="3648" arHeight="2056" duration="0" songTitle="" songArtist="" songAlbum="" songCopyrightUrl="" songArtistUrl="" songAudioFileUrl="" stabilizationMode="0" mediaItemType="2" />
     <MediaItem id="158" filePath="C:\Benelux_fenykepek_2016\DSC02033.JPG" arWidth="3648" arHeight="2056" duration="0" songTitle="" songArtist="" songAlbum="" songCopyrightUrl="" songArtistUrl="" songAudioFileUrl="" stabilizationMode="0" mediaItemType="2" />
-    <MediaItem id="159" filePath="C:\Benelux_fenykepek_2016\DSC02034.JPG" arWidth="3648" arHeight="2056" duration="0" songTitle="" songArtist="" songAlbum="" songCopyrightUrl="" songArtistUrl="" songAudioFileUrl="" stabilizationMode="0" mediaItemType="2" />
+    <MediaItem id="159" filePath="C:\Benelux_fenykepek_2016\DSC02034.JPG" arWidth="1280" arHeight="721" duration="0" songTitle="" songArtist="" songAlbum="" songCopyrightUrl="" songArtistUrl="" songAudioFileUrl="" stabilizationMode="0" mediaItemType="2" />
     <MediaItem id="160" filePath="C:\Benelux_fenykepek_2016\DSC02035.JPG" arWidth="2056" arHeight="3648" duration="0" songTitle="" songArtist="" songAlbum="" songCopyrightUrl="" songArtistUrl="" songAudioFileUrl="" stabilizationMode="0" mediaItemType="2" />
     <MediaItem id="161" filePath="C:\Benelux_fenykepek_2016\DSC02036.JPG" arWidth="3648" arHeight="2056" duration="0" songTitle="" songArtist="" songAlbum="" songCopyrightUrl="" songArtistUrl="" songAudioFileUrl="" stabilizationMode="0" mediaItemType="2" />
     <MediaItem id="162" filePath="C:\Benelux_fenykepek_2016\DSC02038.JPG" arWidth="3648" arHeight="2056" duration="0" songTitle="" songArtist="" songAlbum="" songCopyrightUrl="" songArtistUrl="" songAudioFileUrl="" stabilizationMode="0" mediaItemType="2" />
@@ -710,15 +710,6 @@
         <BoundPropertyInt Name="rotateStepNinety" Value="0" />
       </BoundProperties>
     </ImageClip>
-    <VideoClip extentID="198" gapBefore="0" mediaItemID="135" inTime="0" outTime="0" speed="1" stabilizationMode="0">
-      <Effects />
-      <Transitions />
-      <BoundProperties>
-        <BoundPropertyBool Name="Mute" Value="false" />
-        <BoundPropertyInt Name="rotateStepNinety" Value="0" />
-        <BoundPropertyFloat Name="Volume" Value="1" />
-      </BoundProperties>
-    </VideoClip>
     <VideoClip extentID="35" gapBefore="0" mediaItemID="31" inTime="0" outTime="14.219999999999999" speed="1" stabilizationMode="0">
       <Effects />
       <Transitions />
@@ -826,13 +817,6 @@
         <BoundPropertyFloat Name="transparency" Value="1" />
       </BoundProperties>
     </TitleClip>
-    <ImageClip extentID="202" gapBefore="0" mediaItemID="139" duration="2.7999999999999998">
-      <Effects />
-      <Transitions />
-      <BoundProperties>
-        <BoundPropertyInt Name="rotateStepNinety" Value="0" />
-      </BoundProperties>
-    </ImageClip>
     <ImageClip extentID="203" gapBefore="0" mediaItemID="140" duration="2.7999999999999998">
       <Effects />
       <Transitions />
@@ -1021,13 +1005,6 @@
         <BoundPropertyInt Name="rotateStepNinety" Value="0" />
       </BoundProperties>
     </ImageClip>
-    <ImageClip extentID="216" gapBefore="0" mediaItemID="153" duration="2.7999999999999998">
-      <Effects />
-      <Transitions />
-      <BoundProperties>
-        <BoundPropertyInt Name="rotateStepNinety" Value="0" />
-      </BoundProperties>
-    </ImageClip>
     <ImageClip extentID="53" gapBefore="0" mediaItemID="49" duration="2.7999999999999998">
       <Effects />
       <Transitions />
@@ -1049,15 +1026,6 @@
         <BoundPropertyInt Name="rotateStepNinety" Value="0" />
       </BoundProperties>
     </ImageClip>
-    <VideoClip extentID="218" gapBefore="0" mediaItemID="155" inTime="0" outTime="0" speed="1" stabilizationMode="0">
-      <Effects />
-      <Transitions />
-      <BoundProperties>
-        <BoundPropertyBool Name="Mute" Value="false" />
-        <BoundPropertyInt Name="rotateStepNinety" Value="0" />
-        <BoundPropertyFloat Name="Volume" Value="1" />
-      </BoundProperties>
-    </VideoClip>
     <TitleClip extentID="55" gapBefore="0" duration="2.7999999999999998">
       <Effects />
       <Transitions />
@@ -1128,13 +1096,6 @@
         <BoundPropertyFloat Name="transparency" Value="1" />
       </BoundProperties>
     </TitleClip>
-    <ImageClip extentID="220" gapBefore="0" mediaItemID="157" duration="2.7999999999999998">
-      <Effects />
-      <Transitions />
-      <BoundProperties>
-        <BoundPropertyInt Name="rotateStepNinety" Value="0" />
-      </BoundProperties>
-    </ImageClip>
     <TitleClip extentID="57" gapBefore="0.40833344459533993" duration="2.8000000000000007">
       <Effects>
         <TextEffect effectTemplateID="TextEffectTemplate" TextScriptId="0">
@@ -1196,13 +1157,6 @@
       </BoundProperties>
     </ImageClip>
     <ImageClip extentID="58" gapBefore="0" mediaItemID="57" duration="2.7999999999999998">
-      <Effects />
-      <Transitions />
-      <BoundProperties>
-        <BoundPropertyInt Name="rotateStepNinety" Value="0" />
-      </BoundProperties>
-    </ImageClip>
-    <ImageClip extentID="222" gapBefore="0" mediaItemID="159" duration="2.7999999999999998">
       <Effects />
       <Transitions />
       <BoundProperties>
@@ -1467,21 +1421,7 @@
         <BoundPropertyFloat Name="Volume" Value="1" />
       </BoundProperties>
     </VideoClip>
-    <ImageClip extentID="232" gapBefore="0" mediaItemID="169" duration="2.7999999999999998">
-      <Effects />
-      <Transitions />
-      <BoundProperties>
-        <BoundPropertyInt Name="rotateStepNinety" Value="0" />
-      </BoundProperties>
-    </ImageClip>
     <ImageClip extentID="70" gapBefore="0" mediaItemID="64" duration="2.7999999999999998">
-      <Effects />
-      <Transitions />
-      <BoundProperties>
-        <BoundPropertyInt Name="rotateStepNinety" Value="0" />
-      </BoundProperties>
-    </ImageClip>
-    <ImageClip extentID="233" gapBefore="0" mediaItemID="170" duration="2.7999999999999998">
       <Effects />
       <Transitions />
       <BoundProperties>
@@ -1538,6 +1478,57 @@
         <BoundPropertyInt Name="rotateStepNinety" Value="0" />
       </BoundProperties>
     </ImageClip>
+    <TitleClip extentID="74" gapBefore="0.033293333334313502" duration="2.766706666665641">
+      <Effects>
+        <TextEffect effectTemplateID="TextEffectFadeTemplate" TextScriptId="1">
+          <BoundProperties>
+            <BoundPropertyBool Name="automatic" Value="false" />
+            <BoundPropertyFloatSet Name="color">
+              <BoundPropertyFloatElement Value="1" />
+              <BoundPropertyFloatElement Value="1" />
+              <BoundPropertyFloatElement Value="1" />
+            </BoundPropertyFloatSet>
+            <BoundPropertyStringSet Name="family">
+              <BoundPropertyStringElement Value="Segoe UI" />
+            </BoundPropertyStringSet>
+            <BoundPropertyBool Name="horizontal" Value="true" />
+            <BoundPropertyStringSet Name="justify">
+              <BoundPropertyStringElement Value="MIDDLE" />
+            </BoundPropertyStringSet>
+            <BoundPropertyBool Name="leftToRight" Value="true" />
+            <BoundPropertyFloatSet Name="length" />
+            <BoundPropertyFloat Name="maxExtent" Value="0" />
+            <BoundPropertyFloatSet Name="outlineColor">
+              <BoundPropertyFloatElement Value="0.64705884456634521" />
+              <BoundPropertyFloatElement Value="0.64705884456634521" />
+              <BoundPropertyFloatElement Value="0.64705884456634521" />
+            </BoundPropertyFloatSet>
+            <BoundPropertyInt Name="outlineSizeIndex" Value="0" />
+            <BoundPropertyFloatSet Name="position">
+              <BoundPropertyFloatElement Value="0" />
+              <BoundPropertyFloatElement Value="-1.745762825012207" />
+              <BoundPropertyFloatElement Value="0.02500000037252903" />
+            </BoundPropertyFloatSet>
+            <BoundPropertyFloat Name="size" Value="0.40000000596046448" />
+            <BoundPropertyStringSet Name="string">
+              <BoundPropertyStringElement Value="Johannes Vermeer: Lány gyöngy " />
+              <BoundPropertyStringElement Value="fülbevalóval)" />
+            </BoundPropertyStringSet>
+            <BoundPropertyString Name="style" Value="Bold" />
+            <BoundPropertyFloat Name="transparency" Value="0" />
+          </BoundProperties>
+        </TextEffect>
+      </Effects>
+      <Transitions />
+      <BoundProperties>
+        <BoundPropertyFloatSet Name="diffuseColor">
+          <BoundPropertyFloatElement Value="0.75" />
+          <BoundPropertyFloatElement Value="1" />
+          <BoundPropertyFloatElement Value="0" />
+        </BoundPropertyFloatSet>
+        <BoundPropertyFloat Name="transparency" Value="1" />
+      </BoundProperties>
+    </TitleClip>
     <ImageClip extentID="237" gapBefore="0" mediaItemID="174" duration="2.7999999999999998">
       <Effects />
       <Transitions />
@@ -1585,6 +1576,56 @@
         <BoundPropertyInt Name="rotateStepNinety" Value="0" />
       </BoundProperties>
     </ImageClip>
+    <TitleClip extentID="77" gapBefore="0.033293333334086128" duration="2.7667066666658684">
+      <Effects>
+        <TextEffect effectTemplateID="TextEffectFadeTemplate" TextScriptId="1">
+          <BoundProperties>
+            <BoundPropertyBool Name="automatic" Value="false" />
+            <BoundPropertyFloatSet Name="color">
+              <BoundPropertyFloatElement Value="1" />
+              <BoundPropertyFloatElement Value="1" />
+              <BoundPropertyFloatElement Value="1" />
+            </BoundPropertyFloatSet>
+            <BoundPropertyStringSet Name="family">
+              <BoundPropertyStringElement Value="Segoe UI" />
+            </BoundPropertyStringSet>
+            <BoundPropertyBool Name="horizontal" Value="true" />
+            <BoundPropertyStringSet Name="justify">
+              <BoundPropertyStringElement Value="MIDDLE" />
+            </BoundPropertyStringSet>
+            <BoundPropertyBool Name="leftToRight" Value="true" />
+            <BoundPropertyFloatSet Name="length" />
+            <BoundPropertyFloat Name="maxExtent" Value="0" />
+            <BoundPropertyFloatSet Name="outlineColor">
+              <BoundPropertyFloatElement Value="0.64705884456634521" />
+              <BoundPropertyFloatElement Value="0.64705884456634521" />
+              <BoundPropertyFloatElement Value="0.64705884456634521" />
+            </BoundPropertyFloatSet>
+            <BoundPropertyInt Name="outlineSizeIndex" Value="0" />
+            <BoundPropertyFloatSet Name="position">
+              <BoundPropertyFloatElement Value="0" />
+              <BoundPropertyFloatElement Value="-1.745762825012207" />
+              <BoundPropertyFloatElement Value="0.02500000037252903" />
+            </BoundPropertyFloatSet>
+            <BoundPropertyFloat Name="size" Value="0.40000000596046448" />
+            <BoundPropertyStringSet Name="string">
+              <BoundPropertyStringElement Value="Rembrandt: dr. Tulp anatómiája" />
+            </BoundPropertyStringSet>
+            <BoundPropertyString Name="style" Value="Bold" />
+            <BoundPropertyFloat Name="transparency" Value="0" />
+          </BoundProperties>
+        </TextEffect>
+      </Effects>
+      <Transitions />
+      <BoundProperties>
+        <BoundPropertyFloatSet Name="diffuseColor">
+          <BoundPropertyFloatElement Value="0.75" />
+          <BoundPropertyFloatElement Value="1" />
+          <BoundPropertyFloatElement Value="0" />
+        </BoundPropertyFloatSet>
+        <BoundPropertyFloat Name="transparency" Value="1" />
+      </BoundProperties>
+    </TitleClip>
     <ImageClip extentID="240" gapBefore="0" mediaItemID="177" duration="2.7999999999999998">
       <Effects />
       <Transitions />
@@ -1593,15 +1634,6 @@
       </BoundProperties>
     </ImageClip>
     <VideoClip extentID="78" gapBefore="0" mediaItemID="70" inTime="0" outTime="39.133333333333326" speed="1" stabilizationMode="0">
-      <Effects />
-      <Transitions />
-      <BoundProperties>
-        <BoundPropertyBool Name="Mute" Value="false" />
-        <BoundPropertyInt Name="rotateStepNinety" Value="0" />
-        <BoundPropertyFloat Name="Volume" Value="1" />
-      </BoundProperties>
-    </VideoClip>
-    <VideoClip extentID="241" gapBefore="0" mediaItemID="178" inTime="0" outTime="0" speed="1" stabilizationMode="0">
       <Effects />
       <Transitions />
       <BoundProperties>
@@ -1623,15 +1655,6 @@
         <BoundPropertyFloat Name="Volume" Value="1" />
       </BoundProperties>
     </VideoClip>
-    <VideoClip extentID="242" gapBefore="0" mediaItemID="179" inTime="0" outTime="0" speed="1" stabilizationMode="0">
-      <Effects />
-      <Transitions />
-      <BoundProperties>
-        <BoundPropertyBool Name="Mute" Value="false" />
-        <BoundPropertyInt Name="rotateStepNinety" Value="0" />
-        <BoundPropertyFloat Name="Volume" Value="1" />
-      </BoundProperties>
-    </VideoClip>
     <VideoClip extentID="80" gapBefore="0" mediaItemID="71" inTime="0" outTime="23.566666666666606" speed="1" stabilizationMode="0">
       <Effects />
       <Transitions>
@@ -1645,24 +1668,56 @@
         <BoundPropertyFloat Name="Volume" Value="1" />
       </BoundProperties>
     </VideoClip>
-    <VideoClip extentID="243" gapBefore="0" mediaItemID="180" inTime="0" outTime="0" speed="1" stabilizationMode="0">
-      <Effects />
+    <TitleClip extentID="81" gapBefore="0.033293333334086128" duration="2.7667066666658684">
+      <Effects>
+        <TextEffect effectTemplateID="TextEffectFadeTemplate" TextScriptId="1">
+          <BoundProperties>
+            <BoundPropertyBool Name="automatic" Value="false" />
+            <BoundPropertyFloatSet Name="color">
+              <BoundPropertyFloatElement Value="1" />
+              <BoundPropertyFloatElement Value="1" />
+              <BoundPropertyFloatElement Value="1" />
+            </BoundPropertyFloatSet>
+            <BoundPropertyStringSet Name="family">
+              <BoundPropertyStringElement Value="Segoe UI" />
+            </BoundPropertyStringSet>
+            <BoundPropertyBool Name="horizontal" Value="true" />
+            <BoundPropertyStringSet Name="justify">
+              <BoundPropertyStringElement Value="MIDDLE" />
+            </BoundPropertyStringSet>
+            <BoundPropertyBool Name="leftToRight" Value="true" />
+            <BoundPropertyFloatSet Name="length" />
+            <BoundPropertyFloat Name="maxExtent" Value="0" />
+            <BoundPropertyFloatSet Name="outlineColor">
+              <BoundPropertyFloatElement Value="0.64705884456634521" />
+              <BoundPropertyFloatElement Value="0.64705884456634521" />
+              <BoundPropertyFloatElement Value="0.64705884456634521" />
+            </BoundPropertyFloatSet>
+            <BoundPropertyInt Name="outlineSizeIndex" Value="0" />
+            <BoundPropertyFloatSet Name="position">
+              <BoundPropertyFloatElement Value="0" />
+              <BoundPropertyFloatElement Value="-1.745762825012207" />
+              <BoundPropertyFloatElement Value="0.02500000037252903" />
+            </BoundPropertyFloatSet>
+            <BoundPropertyFloat Name="size" Value="0.40000000596046448" />
+            <BoundPropertyStringSet Name="string">
+              <BoundPropertyStringElement Value="Rubens::Öreg hölgy és egy fiú gyertyáva" />
+            </BoundPropertyStringSet>
+            <BoundPropertyString Name="style" Value="Bold" />
+            <BoundPropertyFloat Name="transparency" Value="0" />
+          </BoundProperties>
+        </TextEffect>
+      </Effects>
       <Transitions />
       <BoundProperties>
-        <BoundPropertyBool Name="Mute" Value="false" />
-        <BoundPropertyInt Name="rotateStepNinety" Value="0" />
-        <BoundPropertyFloat Name="Volume" Value="1" />
+        <BoundPropertyFloatSet Name="diffuseColor">
+          <BoundPropertyFloatElement Value="0.75" />
+          <BoundPropertyFloatElement Value="1" />
+          <BoundPropertyFloatElement Value="0" />
+        </BoundPropertyFloatSet>
+        <BoundPropertyFloat Name="transparency" Value="1" />
       </BoundProperties>
-    </VideoClip>
-    <VideoClip extentID="244" gapBefore="0" mediaItemID="181" inTime="0" outTime="0" speed="1" stabilizationMode="0">
-      <Effects />
-      <Transitions />
-      <BoundProperties>
-        <BoundPropertyBool Name="Mute" Value="false" />
-        <BoundPropertyInt Name="rotateStepNinety" Value="0" />
-        <BoundPropertyFloat Name="Volume" Value="1" />
-      </BoundProperties>
-    </VideoClip>
+    </TitleClip>
     <VideoClip extentID="82" gapBefore="0" mediaItemID="41" inTime="4.966666666666697" outTime="10.800000000000011" speed="1" stabilizationMode="0">
       <Effects />
       <Transitions>
@@ -1683,6 +1738,56 @@
         <BoundPropertyInt Name="rotateStepNinety" Value="0" />
       </BoundProperties>
     </ImageClip>
+    <TitleClip extentID="83" gapBefore="56.033293333333177" duration="2.7667066666658684">
+      <Effects>
+        <TextEffect effectTemplateID="TextEffectFadeTemplate" TextScriptId="1">
+          <BoundProperties>
+            <BoundPropertyBool Name="automatic" Value="false" />
+            <BoundPropertyFloatSet Name="color">
+              <BoundPropertyFloatElement Value="1" />
+              <BoundPropertyFloatElement Value="1" />
+              <BoundPropertyFloatElement Value="1" />
+            </BoundPropertyFloatSet>
+            <BoundPropertyStringSet Name="family">
+              <BoundPropertyStringElement Value="Segoe UI" />
+            </BoundPropertyStringSet>
+            <BoundPropertyBool Name="horizontal" Value="true" />
+            <BoundPropertyStringSet Name="justify">
+              <BoundPropertyStringElement Value="MIDDLE" />
+            </BoundPropertyStringSet>
+            <BoundPropertyBool Name="leftToRight" Value="true" />
+            <BoundPropertyFloatSet Name="length" />
+            <BoundPropertyFloat Name="maxExtent" Value="0" />
+            <BoundPropertyFloatSet Name="outlineColor">
+              <BoundPropertyFloatElement Value="0.64705884456634521" />
+              <BoundPropertyFloatElement Value="0.64705884456634521" />
+              <BoundPropertyFloatElement Value="0.64705884456634521" />
+            </BoundPropertyFloatSet>
+            <BoundPropertyInt Name="outlineSizeIndex" Value="0" />
+            <BoundPropertyFloatSet Name="position">
+              <BoundPropertyFloatElement Value="0" />
+              <BoundPropertyFloatElement Value="-1.3050847053527832" />
+              <BoundPropertyFloatElement Value="0.02500000037252903" />
+            </BoundPropertyFloatSet>
+            <BoundPropertyFloat Name="size" Value="0.40000000596046448" />
+            <BoundPropertyStringSet Name="string">
+              <BoundPropertyStringElement Value="Rubens portrék" />
+            </BoundPropertyStringSet>
+            <BoundPropertyString Name="style" Value="Bold" />
+            <BoundPropertyFloat Name="transparency" Value="0" />
+          </BoundProperties>
+        </TextEffect>
+      </Effects>
+      <Transitions />
+      <BoundProperties>
+        <BoundPropertyFloatSet Name="diffuseColor">
+          <BoundPropertyFloatElement Value="0.75" />
+          <BoundPropertyFloatElement Value="1" />
+          <BoundPropertyFloatElement Value="0" />
+        </BoundPropertyFloatSet>
+        <BoundPropertyFloat Name="transparency" Value="1" />
+      </BoundProperties>
+    </TitleClip>
     <ImageClip extentID="246" gapBefore="0" mediaItemID="183" duration="2.7999999999999998">
       <Effects />
       <Transitions />
@@ -1690,7 +1795,7 @@
         <BoundPropertyInt Name="rotateStepNinety" Value="0" />
       </BoundProperties>
     </ImageClip>
-    <TitleClip extentID="84" gapBefore="513.42007979999732" duration="2.7799599999998463">
+    <TitleClip extentID="84" gapBefore="162.37341333333268" duration="2.7799599999998463">
       <Effects>
         <TextEffect effectTemplateID="TextEffectTemplate" TextScriptId="0">
           <BoundProperties>
@@ -1751,6 +1856,15 @@
         <BoundPropertyInt Name="rotateStepNinety" Value="0" />
       </BoundProperties>
     </ImageClip>
+    <VideoClip extentID="85" gapBefore="0" mediaItemID="181" inTime="3.2332933333348137" outTime="21.433253333336324" speed="1" stabilizationMode="0">
+      <Effects />
+      <Transitions />
+      <BoundProperties>
+        <BoundPropertyBool Name="Mute" Value="false" />
+        <BoundPropertyInt Name="rotateStepNinety" Value="0" />
+        <BoundPropertyFloat Name="Volume" Value="1" />
+      </BoundProperties>
+    </VideoClip>
     <ImageClip extentID="248" gapBefore="0" mediaItemID="185" duration="2.7999999999999998">
       <Effects />
       <Transitions />
@@ -1785,6 +1899,56 @@
         <BoundPropertyInt Name="rotateStepNinety" Value="0" />
       </BoundProperties>
     </ImageClip>
+    <TitleClip extentID="88" gapBefore="30.833293333334268" duration="7">
+      <Effects>
+        <TextEffect effectTemplateID="TextEffectFadeTemplate" TextScriptId="1">
+          <BoundProperties>
+            <BoundPropertyBool Name="automatic" Value="false" />
+            <BoundPropertyFloatSet Name="color">
+              <BoundPropertyFloatElement Value="1" />
+              <BoundPropertyFloatElement Value="1" />
+              <BoundPropertyFloatElement Value="1" />
+            </BoundPropertyFloatSet>
+            <BoundPropertyStringSet Name="family">
+              <BoundPropertyStringElement Value="Segoe UI" />
+            </BoundPropertyStringSet>
+            <BoundPropertyBool Name="horizontal" Value="true" />
+            <BoundPropertyStringSet Name="justify">
+              <BoundPropertyStringElement Value="MIDDLE" />
+            </BoundPropertyStringSet>
+            <BoundPropertyBool Name="leftToRight" Value="true" />
+            <BoundPropertyFloatSet Name="length" />
+            <BoundPropertyFloat Name="maxExtent" Value="0" />
+            <BoundPropertyFloatSet Name="outlineColor">
+              <BoundPropertyFloatElement Value="0.64705884456634521" />
+              <BoundPropertyFloatElement Value="0.64705884456634521" />
+              <BoundPropertyFloatElement Value="0.64705884456634521" />
+            </BoundPropertyFloatSet>
+            <BoundPropertyInt Name="outlineSizeIndex" Value="0" />
+            <BoundPropertyFloatSet Name="position">
+              <BoundPropertyFloatElement Value="0" />
+              <BoundPropertyFloatElement Value="-1.7796611785888672" />
+              <BoundPropertyFloatElement Value="0.02500000037252903" />
+            </BoundPropertyFloatSet>
+            <BoundPropertyFloat Name="size" Value="0.40000000596046448" />
+            <BoundPropertyStringSet Name="string">
+              <BoundPropertyStringElement Value="Antwerpen" />
+            </BoundPropertyStringSet>
+            <BoundPropertyString Name="style" Value="Bold" />
+            <BoundPropertyFloat Name="transparency" Value="0" />
+          </BoundProperties>
+        </TextEffect>
+      </Effects>
+      <Transitions />
+      <BoundProperties>
+        <BoundPropertyFloatSet Name="diffuseColor">
+          <BoundPropertyFloatElement Value="0.75" />
+          <BoundPropertyFloatElement Value="1" />
+          <BoundPropertyFloatElement Value="0" />
+        </BoundPropertyFloatSet>
+        <BoundPropertyFloat Name="transparency" Value="1" />
+      </BoundProperties>
+    </TitleClip>
     <ImageClip extentID="251" gapBefore="0" mediaItemID="188" duration="2.7999999999999998">
       <Effects />
       <Transitions />
@@ -1792,6 +1956,15 @@
         <BoundPropertyInt Name="rotateStepNinety" Value="0" />
       </BoundProperties>
     </ImageClip>
+    <VideoClip extentID="89" gapBefore="0" mediaItemID="194" inTime="6.3000000000004093" outTime="44.933333333334076" speed="1" stabilizationMode="0">
+      <Effects />
+      <Transitions />
+      <BoundProperties>
+        <BoundPropertyBool Name="Mute" Value="false" />
+        <BoundPropertyInt Name="rotateStepNinety" Value="0" />
+        <BoundPropertyFloat Name="Volume" Value="1" />
+      </BoundProperties>
+    </VideoClip>
     <ImageClip extentID="252" gapBefore="0" mediaItemID="189" duration="2.7999999999999998">
       <Effects />
       <Transitions />
@@ -1806,6 +1979,15 @@
         <BoundPropertyInt Name="rotateStepNinety" Value="0" />
       </BoundProperties>
     </ImageClip>
+    <VideoClip extentID="91" gapBefore="0" mediaItemID="194" inTime="55.500000000000909" outTime="61.933333333334303" speed="1" stabilizationMode="0">
+      <Effects />
+      <Transitions />
+      <BoundProperties>
+        <BoundPropertyBool Name="Mute" Value="false" />
+        <BoundPropertyInt Name="rotateStepNinety" Value="0" />
+        <BoundPropertyFloat Name="Volume" Value="1" />
+      </BoundProperties>
+    </VideoClip>
     <ImageClip extentID="254" gapBefore="0" mediaItemID="191" duration="2.7999999999999998">
       <Effects />
       <Transitions />
@@ -1848,15 +2030,6 @@
         <BoundPropertyInt Name="rotateStepNinety" Value="0" />
       </BoundProperties>
     </ImageClip>
-    <VideoClip extentID="257" gapBefore="0" mediaItemID="194" inTime="0" outTime="0" speed="1" stabilizationMode="0">
-      <Effects />
-      <Transitions />
-      <BoundProperties>
-        <BoundPropertyBool Name="Mute" Value="false" />
-        <BoundPropertyInt Name="rotateStepNinety" Value="0" />
-        <BoundPropertyFloat Name="Volume" Value="1" />
-      </BoundProperties>
-    </VideoClip>
     <ImageClip extentID="95" gapBefore="0" mediaItemID="84" duration="2.7999999999999998">
       <Effects />
       <Transitions />
@@ -1878,7 +2051,7 @@
         <BoundPropertyInt Name="rotateStepNinety" Value="0" />
       </BoundProperties>
     </ImageClip>
-    <ImageClip extentID="259" gapBefore="0" mediaItemID="196" duration="7">
+    <ImageClip extentID="259" gapBefore="0" mediaItemID="196" duration="2.7999999999999998">
       <Effects />
       <Transitions />
       <BoundProperties>
@@ -1892,21 +2065,21 @@
         <BoundPropertyInt Name="rotateStepNinety" Value="0" />
       </BoundProperties>
     </ImageClip>
-    <ImageClip extentID="260" gapBefore="0" mediaItemID="197" duration="7">
+    <ImageClip extentID="260" gapBefore="0" mediaItemID="197" duration="2.7999999999999998">
       <Effects />
       <Transitions />
       <BoundProperties>
         <BoundPropertyInt Name="rotateStepNinety" Value="0" />
       </BoundProperties>
     </ImageClip>
-    <ImageClip extentID="261" gapBefore="0" mediaItemID="198" duration="7">
+    <ImageClip extentID="261" gapBefore="0" mediaItemID="198" duration="2.7999999999999998">
       <Effects />
       <Transitions />
       <BoundProperties>
         <BoundPropertyInt Name="rotateStepNinety" Value="0" />
       </BoundProperties>
     </ImageClip>
-    <ImageClip extentID="262" gapBefore="0" mediaItemID="199" duration="7">
+    <ImageClip extentID="262" gapBefore="0" mediaItemID="199" duration="2.7999999999999998">
       <Effects />
       <Transitions />
       <BoundProperties>
@@ -1920,14 +2093,7 @@
         <BoundPropertyInt Name="rotateStepNinety" Value="0" />
       </BoundProperties>
     </ImageClip>
-    <ImageClip extentID="263" gapBefore="0" mediaItemID="200" duration="7">
-      <Effects />
-      <Transitions />
-      <BoundProperties>
-        <BoundPropertyInt Name="rotateStepNinety" Value="0" />
-      </BoundProperties>
-    </ImageClip>
-    <ImageClip extentID="264" gapBefore="0" mediaItemID="201" duration="7">
+    <ImageClip extentID="264" gapBefore="0" mediaItemID="201" duration="2.7999999999999998">
       <Effects />
       <Transitions />
       <BoundProperties>
@@ -1941,7 +2107,7 @@
         <BoundPropertyInt Name="rotateStepNinety" Value="0" />
       </BoundProperties>
     </ImageClip>
-    <ImageClip extentID="265" gapBefore="0" mediaItemID="202" duration="7">
+    <ImageClip extentID="265" gapBefore="0" mediaItemID="202" duration="2.7999999999999998">
       <Effects />
       <Transitions />
       <BoundProperties>
@@ -1955,28 +2121,7 @@
         <BoundPropertyInt Name="rotateStepNinety" Value="0" />
       </BoundProperties>
     </ImageClip>
-    <ImageClip extentID="266" gapBefore="0" mediaItemID="203" duration="7">
-      <Effects />
-      <Transitions />
-      <BoundProperties>
-        <BoundPropertyInt Name="rotateStepNinety" Value="0" />
-      </BoundProperties>
-    </ImageClip>
-    <ImageClip extentID="267" gapBefore="0" mediaItemID="204" duration="7">
-      <Effects />
-      <Transitions />
-      <BoundProperties>
-        <BoundPropertyInt Name="rotateStepNinety" Value="0" />
-      </BoundProperties>
-    </ImageClip>
-    <ImageClip extentID="268" gapBefore="0" mediaItemID="205" duration="7">
-      <Effects />
-      <Transitions />
-      <BoundProperties>
-        <BoundPropertyInt Name="rotateStepNinety" Value="0" />
-      </BoundProperties>
-    </ImageClip>
-    <ImageClip extentID="269" gapBefore="0" mediaItemID="206" duration="7">
+    <ImageClip extentID="267" gapBefore="0" mediaItemID="204" duration="2.7999999999999998">
       <Effects />
       <Transitions />
       <BoundProperties>
@@ -3024,12 +3169,11 @@
         <ExtentRef id="189" />
         <ExtentRef id="195" />
         <ExtentRef id="196" />
+        <ExtentRef id="221" />
         <ExtentRef id="197" />
-        <ExtentRef id="198" />
-        <ExtentRef id="199" />
-        <ExtentRef id="200" />
         <ExtentRef id="201" />
-        <ExtentRef id="202" />
+        <ExtentRef id="200" />
+        <ExtentRef id="199" />
         <ExtentRef id="203" />
         <ExtentRef id="204" />
         <ExtentRef id="205" />
@@ -3039,15 +3183,17 @@
         <ExtentRef id="209" />
         <ExtentRef id="212" />
         <ExtentRef id="213" />
-        <ExtentRef id="214" />
-        <ExtentRef id="215" />
-        <ExtentRef id="216" />
         <ExtentRef id="217" />
-        <ExtentRef id="218" />
+        <ExtentRef id="214" />
+        <ExtentRef id="238" />
+        <ExtentRef id="235" />
+        <ExtentRef id="230" />
+        <ExtentRef id="231" />
+        <ExtentRef id="234" />
+        <ExtentRef id="236" />
+        <ExtentRef id="237" />
+        <ExtentRef id="215" />
         <ExtentRef id="219" />
-        <ExtentRef id="220" />
-        <ExtentRef id="221" />
-        <ExtentRef id="222" />
         <ExtentRef id="223" />
         <ExtentRef id="224" />
         <ExtentRef id="225" />
@@ -3055,46 +3201,31 @@
         <ExtentRef id="227" />
         <ExtentRef id="228" />
         <ExtentRef id="229" />
-        <ExtentRef id="230" />
-        <ExtentRef id="231" />
-        <ExtentRef id="232" />
-        <ExtentRef id="233" />
-        <ExtentRef id="234" />
-        <ExtentRef id="235" />
-        <ExtentRef id="236" />
-        <ExtentRef id="237" />
-        <ExtentRef id="238" />
         <ExtentRef id="239" />
         <ExtentRef id="240" />
-        <ExtentRef id="241" />
-        <ExtentRef id="242" />
-        <ExtentRef id="243" />
-        <ExtentRef id="244" />
+        <ExtentRef id="85" />
         <ExtentRef id="245" />
         <ExtentRef id="246" />
+        <ExtentRef id="267" />
         <ExtentRef id="247" />
         <ExtentRef id="248" />
         <ExtentRef id="249" />
         <ExtentRef id="250" />
         <ExtentRef id="251" />
         <ExtentRef id="252" />
+        <ExtentRef id="256" />
         <ExtentRef id="253" />
         <ExtentRef id="254" />
         <ExtentRef id="255" />
-        <ExtentRef id="256" />
-        <ExtentRef id="257" />
+        <ExtentRef id="89" />
+        <ExtentRef id="91" />
         <ExtentRef id="258" />
         <ExtentRef id="259" />
         <ExtentRef id="260" />
         <ExtentRef id="261" />
         <ExtentRef id="262" />
-        <ExtentRef id="263" />
         <ExtentRef id="264" />
         <ExtentRef id="265" />
-        <ExtentRef id="266" />
-        <ExtentRef id="267" />
-        <ExtentRef id="268" />
-        <ExtentRef id="269" />
       </ExtentRefs>
     </ExtentSelector>
     <ExtentSelector extentID="2" gapBefore="0" primaryTrack="false">
@@ -3133,6 +3264,11 @@
         <ExtentRef id="161" />
         <ExtentRef id="39" />
         <ExtentRef id="66" />
+        <ExtentRef id="83" />
+        <ExtentRef id="81" />
+        <ExtentRef id="77" />
+        <ExtentRef id="74" />
+        <ExtentRef id="88" />
         <ExtentRef id="84" />
       </ExtentRefs>
     </ExtentSelector>
